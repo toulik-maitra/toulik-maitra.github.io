@@ -8,7 +8,7 @@ date: 2023-09-01
 location: "Davis, USA"
 ---
 
-Fall, 2023
+One aspect of teaching that I found particularly rewarding was the opportunity to present fluid mechanics concepts in an engaging and entertaining manner, enabling students to develop a visual understanding of the underlying equations. Additionally, I derived great satisfaction from witnessing students' intellectual curiosity extend beyond the confines of the coursework, as they sought to solve complex problems and pose thought-provoking questions. I have learnt a lot from them.
 
 ## Course Overview
 

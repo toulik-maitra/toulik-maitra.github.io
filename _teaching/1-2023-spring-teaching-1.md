@@ -8,7 +8,8 @@ date: 2023-04-01
 location: "Davis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post. <a href="/files/eng045_spring.pdf" target="_blank"><span style="font-size: 100%;">Course Evaluation Summary</span></a>
+I particularly enjoyed learning about different crystal structures and miller indices convention and seeing the students' understanding and enthusiasm grow as they applied theoretical concepts to hands-on experiments to find the enrgy band gap.
+
 
 ## Course Overview
 

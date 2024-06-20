@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Davis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post. <a href="/files/che002b_winter_2024.pdf" target="_blank"><span style="font-size: 100%;">Course Evaluation Summary</span></a>
+I found the experience of teaching Chemistry concepts to be highly rewarding, as it allowed me to present the material in an engaging and entertaining manner, helping students develop a visual comprehension of the underlying equations. Furthermore, I enjoyed imparting research concepts to the students, equipping them with knowledge that they could utilize in their future endeavors. It was immensely gratifying to witness students applying theoretical concepts to practical experiments, all while maintaining a positive and enjoyable learning environment characterized by smiles and a spirit of fun.
 
 ## Course Overview
 

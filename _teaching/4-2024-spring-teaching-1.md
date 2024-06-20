@@ -8,7 +8,7 @@ date: 2024-04-01
 location: "Davis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post. <a href="/files/che002c_spring_2024.pdf" target="_blank"><span style="font-size: 100%;">Course Evaluation Summary</span></a>
+Similarly as CHE002B, the most fulfilling aspect of teaching chemistry was the ability to convey complex concepts in a captivating and amusing way, enabling students to visualize and grasp the underlying equations more effectively. This course has been instrumental in enhancing my research capabilities and solidifying my fundamental understanding of the subject matter. It was truly rewarding to observe students actively applying theoretical principles to practical experiments, all while fostering an enjoyable and uplifting learning environment filled with smiles and a sense of enthusiasm for the subject matter. 
 
 ## Course Overview
 

@@ -8,7 +8,7 @@ date: 2022-09-01
 location: "Davis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post. <span style="font-size: 100%;">Click here to download: &nbsp;&nbsp;&nbsp;</span> <a href="{{base.url}}/files/eng-45_spring.pdf" target="_blank" class="btn btn-success"><span style="font-size: 120%;">Curriculum Vitae</span></a>
+This is a description of a teaching experience. You can use markdown like any other post.
 
 Heading 1
 ======

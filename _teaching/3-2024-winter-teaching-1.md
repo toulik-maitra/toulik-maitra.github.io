@@ -8,7 +8,7 @@ date: 2024-01-01
 location: "Davis, USA"
 ---
 
-**Personal Learning**: This course has allowed me to present the material engagingly and entertainingly, helping students develop a visual comprehension of the underlying equations, which helped me in preparing for my Qualifying Exams.
+**Personal Learning**: This course has allowed me to present the material engagingly and entertainingly, helping students develop a visual comprehension of the underlying equations, which has been instrumental in preparing for my Qualifying Exams.
 
 ## Course Overview
 

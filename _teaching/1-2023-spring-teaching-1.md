@@ -8,7 +8,7 @@ date: 2023-04-01
 location: "Davis, USA"
 ---
 
-**Personal Learning**: This course has helped me how to communicate science to a general audience. I have also learnt new concepts like crystal structures and miller indices convention in this course. 
+**Personal Learning**: This course has enhanced my ability to communicate science to a broad audience. Additionally, I've acquired new knowledge, such as crystal structures and the Miller indices convention.
 
 
 ## Course Overview

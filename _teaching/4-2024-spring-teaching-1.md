@@ -1,18 +1,18 @@
 ---
 title: "CHE 002C: General Chemistry"
 collection: teaching
-type: "Undergraduate course"
+type: "Freshman/Sophomore level - undergraduate course"
 permalink: /teaching/4-2024-spring-teaching-1
 venue: "Department of Chemistry, University of California Davis"
 date: 2024-04-01
 location: "Davis, USA"
 ---
 
-Similarly as CHE002B, the most fulfilling aspect of teaching chemistry was the ability to convey complex concepts in a captivating and amusing way, enabling students to visualize and grasp the underlying equations more effectively. This course has been instrumental in enhancing my research capabilities and solidifying my fundamental understanding of the subject matter. It was truly rewarding to observe students actively applying theoretical principles to practical experiments, all while fostering an enjoyable and uplifting learning environment filled with smiles and a sense of enthusiasm for the subject matter. 
+**Personal Learning**: Throughout this course, I have been able to enhance my research capabilities and solidify my fundamental understanding of the subject matter, as it covered basic organic chemistry and complex experiments. 
 
 ## Course Overview
 
-General Chemistry 2C is an undergraduate course offered by the Department of Chemistry at the University of California, Davis.
+General Chemistry 2C is a Freshman/Sophmore level undergraduate course offered by the Department of Chemistry at the University of California, Davis.
 
 ### Teaching Experience
 

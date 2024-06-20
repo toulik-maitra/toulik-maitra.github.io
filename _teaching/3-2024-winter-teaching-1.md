@@ -1,18 +1,18 @@
 ---
 title: "CHE 002B: General Chemistry"
 collection: teaching
-type: "Undergraduate course"
+type: "Freshman/Sophomore level course"
 permalink: /teaching/3-2024-winter-teaching-1
 venue: "Department of Chemistry, University of California Davis"
 date: 2024-01-01
 location: "Davis, USA"
 ---
 
-I found the experience of teaching Chemistry concepts to be highly rewarding, as it allowed me to present the material in an engaging and entertaining manner, helping students develop a visual comprehension of the underlying equations. Furthermore, I enjoyed imparting research concepts to the students, equipping them with knowledge that they could utilize in their future endeavors. It was immensely gratifying to witness students applying theoretical concepts to practical experiments, all while maintaining a positive and enjoyable learning environment characterized by smiles and a spirit of fun.
+**Personal Learning**: This course has allowed me to present the material engagingly and entertainingly, helping students develop a visual comprehension of the underlying equations, which helped me in preparing for my Qualifying Exams.
 
 ## Course Overview
 
-General Chemistry is an undergraduate course offered by the Department of Chemistry at the University of California, Davis.
+General Chemistry is a Freshman/Sophmore level undergraduate course offered by the Department of Chemistry at the University of California, Davis.
 
 ### Teaching Experience
 

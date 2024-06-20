@@ -1,19 +1,19 @@
 ---
 title: "ENG 045: Properties of Materials"
 collection: teaching
-type: "Undergraduate course"
+type: "Junior/Senior level course"
 permalink: /teaching/1-2023-spring-teaching-1
 venue: "Department of Materials Science and Engineering, University of California Davis"
 date: 2023-04-01
 location: "Davis, USA"
 ---
 
-I particularly enjoyed learning about different crystal structures and miller indices convention and seeing the students' understanding and enthusiasm grow as they applied theoretical concepts to hands-on experiments to find the enrgy band gap.
+**Personal Learning**: This course has helped me how to communicate science to a general audience. I have also learnt new concepts like crystal structures and miller indices convention in this course. 
 
 
 ## Course Overview
 
-ENG 045: Properties of Materials is an undergraduate course offered by the Department of Materials Science and Engineering at the University of California, Davis.
+ENG 045: Properties of Materials is a Junior/Senior level undergraduate course offered by the Department of Materials Science and Engineering at the University of California, Davis.
 
 ### Teaching Experience
 

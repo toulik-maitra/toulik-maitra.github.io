@@ -7,7 +7,9 @@ venue: "Department of Chemical Engineering, University of California Davis"
 date: 2023-09-01
 location: "Davis, USA"
 ---
-<!-- 
+
+Fall, 2023
+
 ## Course Overview
 
 ECH 141: Introduction to Fluid Mechanics is an Junior level undergraduate course offered by the Department of Chemical Engineering at the University of California, Davis. 
@@ -22,4 +24,4 @@ Throughout the course, I conducted the following:
 
 For more details, you can view the [Course Evaluation Summary](/files/ech141_fall_2023.pdf).
 
--->
+

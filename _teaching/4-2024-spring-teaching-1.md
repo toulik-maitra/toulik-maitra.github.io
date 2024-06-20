@@ -23,4 +23,3 @@ Throughout the course, I conducted the following:
 
 For more details, you can view the [Course Evaluation Summary](/files/che002c_spring_2024.pdf).
 
----

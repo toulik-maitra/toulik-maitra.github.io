@@ -8,13 +8,4 @@ date: 2023-04-01
 location: "Davis, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post. <a href="/files/eng045_spring.pdf" target="_blank" class="btn btn-success"><span style="font-size: 120%;">Course Evaluation Summary</span></a>
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+This is a description of a teaching experience. You can use markdown like any other post. <a href="/files/eng045_spring.pdf" target="_blank"><span style="font-size: 120%;">Course Evaluation Summary</span></a>

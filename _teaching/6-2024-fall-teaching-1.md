@@ -21,5 +21,5 @@ Throughout the course, I conducted the following:
 - **Discussion Sessions**: I held one discussion session every week to teach core concepts and solve assignments. These sessions covered topics from electrochemistry to chemical kinetics.
 - **Lab Sessions**: I supervised weekly lab sessions where students engaged in practical experiments. These experiments included making galvanic cells in electrochemistry and determining the kinetics of coordination compound complexes.
 
-For more details, you can view the [Course Evaluation Summary](/files/ech001_fall_2024.pdf).
+For more details, you can view the [Course Evaluation Summary](/files/ech001v_fall_2024.pdf).
 

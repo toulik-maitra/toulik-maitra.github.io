@@ -2,7 +2,7 @@
 title: "CHE 001V: General Chemistry"
 collection: teaching
 type: "Freshman level course"
-permalink: /_teaching/5-2024-fall-teaching-1.md
+permalink: /_teaching/5-2024-fall-teaching-1
 venue: "Department of Chemistry, University of California Davis"
 date: 2024-10-01
 location: "Davis, USA"

@@ -2,7 +2,7 @@
 title: "ECH 001: Coffee Lab: Introduction to Chemical Engineering"
 collection: teaching
 type: "Freshman level course"
-permalink: /_teaching/6-2024-fall-teaching-1.md
+permalink: /_teaching/6-2024-fall-teaching-1
 venue: "Department of Chemical Engineering, University of California Davis"
 date: 2024-10-01
 location: "Davis, USA"

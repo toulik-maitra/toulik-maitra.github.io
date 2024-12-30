@@ -2,7 +2,7 @@
 title: "ENG 045: Properties of Materials"
 collection: teaching
 type: "Junior/Senior level course"
-permalink: /teaching/1-2023-spring-teaching-1
+permalink: /_teaching/1-2023-spring-teaching-1
 venue: "Department of Materials Science and Engineering, University of California Davis"
 date: 2023-04-01
 location: "Davis, USA"

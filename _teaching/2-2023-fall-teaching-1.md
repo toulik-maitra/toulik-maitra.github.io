@@ -2,7 +2,7 @@
 title: "ECH 141: Introduction to Fluid Mechanics"
 collection: teaching
 type: "Junior level course"
-permalink: /teaching/2-2023-fall-teaching-1
+permalink: /_teaching/2-2023-fall-teaching-1
 venue: "Department of Chemical Engineering, University of California Davis"
 date: 2023-09-01
 location: "Davis, USA"

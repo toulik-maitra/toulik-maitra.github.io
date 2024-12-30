@@ -2,24 +2,23 @@
 title: "CHE 001V: General Chemistry"
 collection: teaching
 type: "Freshman level course"
-permalink: /teaching/4-2024-spring-teaching-1
+permalink: /_teaching/5-2024-fall-teaching-1.md
 venue: "Department of Chemistry, University of California Davis"
 date: 2024-10-01
 location: "Davis, USA"
 ---
 
-**Personal Learning**: Throughout this course, I have been able to enhance my research capabilities and solidify my fundamental understanding of the subject matter, as it covered basic organic chemistry and complex experiments. 
+**Personal Learning**: In this course, I learned how to conduct online discussion sessions and engage students by presenting concepts in an interesting and simple way. I also learned different methods to communicate concepts effectively and address students' problems.
 
 ## Course Overview
 
-General Chemistry 2C is a Freshman/Sophmore level undergraduate course offered by the Department of Chemistry at the University of California, Davis.
+General Chemistry 1V is a Freshman level undergraduate course offered by the Department of Chemistry at the University of California, Davis.
 
 ### Teaching Experience
 
 Throughout the course, I conducted the following:
 
-- **Discussion Sessions**: I held one discussion session every week to teach core concepts and solve assignments. These sessions covered topics from electrochemistry to chemical kinetics.
-- **Lab Sessions**: I supervised weekly lab sessions where students engaged in practical experiments. These experiments included making galvanic cells in electrochemistry and determining the kinetics of coordination compound complexes.
+- **Discussion Sessions**: I held four online-discussion sessions every week to teach core concepts and solve assignments. These sessions covered topics from unit conversion to chemical equilibria.
 
 For more details, you can view the [Course Evaluation Summary](/files/che001v_fall_2024.pdf).
 

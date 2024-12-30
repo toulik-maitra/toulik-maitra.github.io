@@ -2,7 +2,7 @@
 title: "CHE 002C: General Chemistry"
 collection: teaching
 type: "Freshman/Sophomore level course"
-permalink: /teaching/4-2024-spring-teaching-1
+permalink: /_teaching/4-2024-spring-teaching-1
 venue: "Department of Chemistry, University of California Davis"
 date: 2024-04-01
 location: "Davis, USA"

@@ -2,24 +2,23 @@
 title: "ECH 001: Coffee Lab: Introduction to Chemical Engineering"
 collection: teaching
 type: "Freshman level course"
-permalink: /teaching/4-2024-spring-teaching-1
-venue: "Department of Chemistry, University of California Davis"
+permalink: /_teaching/6-2024-fall-teaching-1.md
+venue: "Department of Chemical Engineering, University of California Davis"
 date: 2024-10-01
 location: "Davis, USA"
 ---
 
-**Personal Learning**: Throughout this course, I have been able to enhance my research capabilities and solidify my fundamental understanding of the subject matter, as it covered basic organic chemistry and complex experiments. 
+**Personal Learning**: In this course, I learned the process of making good coffee with the resources available. I have discovered how even small factors, such as water temperature, brewing method, and pH levels, can significantly impact the flavor.
 
 ## Course Overview
 
-General Chemistry 2C is a Freshman/Sophmore level undergraduate course offered by the Department of Chemistry at the University of California, Davis.
+Coffee Lab is a Freshman level undergraduate course offered by the Department of Chemical Engineering at the University of California, Davis.
 
 ### Teaching Experience
 
 Throughout the course, I conducted the following:
 
-- **Discussion Sessions**: I held one discussion session every week to teach core concepts and solve assignments. These sessions covered topics from electrochemistry to chemical kinetics.
-- **Lab Sessions**: I supervised weekly lab sessions where students engaged in practical experiments. These experiments included making galvanic cells in electrochemistry and determining the kinetics of coordination compound complexes.
+- **Lab Sessions**: I supervised weekly three-lab sessions where students engaged in practical experiments. These experiments included making coffee using different brewing method and understanding fundamental Chemical Engineering concepts like fluid dynamics and mass transfer.
 
-For more details, you can view the [Course Evaluation Summary](/files/ech001v_fall_2024.pdf).
+For more details, you can view the [Course Evaluation Summary](/files/ech001_fall_2024.pdf).
 

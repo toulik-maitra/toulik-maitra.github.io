@@ -2,9 +2,9 @@
 title: "EBS 130: Biological Process Control Systems"
 collection: teaching
 type: "Undergraduate level course"
-permalink: /_teaching/7-2024-winter-teaching-1
+permalink: /_teaching/7-2025-winter-teaching-1
 venue: "Department of Biological and Agricultural Engineering, University of California Davis"
-date: 2024-01-01
+date: 2025-01-01
 location: "Davis, USA"
 ---
 

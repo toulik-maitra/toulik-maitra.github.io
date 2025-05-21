@@ -27,4 +27,6 @@ Key topics covered included:
 - Mathematical modeling of biological processes
 - Feedback control systems in biological applications
 - System dynamics and stability analysis
-- PID controller design and implementation 
+- PID controller design and implementation
+
+For more details, you can view the [Course Evaluation Summary](/files/ebs130_winter_2025.pdf).

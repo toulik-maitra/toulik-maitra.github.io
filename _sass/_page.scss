@@ -52,11 +52,27 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid $border-color;
+    border-bottom: 2px solid $primary-color;
+    color: $primary-color;
+    font-weight: 600;
+    margin-top: 2em;
+    
+    &:first-of-type {
+      margin-top: 1em;
+    }
   }
 
   p, li, dl {
     font-size: 1em;
+    line-height: 1.7;
+  }
+  
+  li {
+    margin-bottom: 0.5em;
+    
+    strong {
+      color: $primary-color;
+    }
   }
 
   /* paragraph indents */
@@ -73,13 +89,19 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
+    color: $link-color;
+    border-bottom: 1px solid transparent;
+    transition: all 0.3s ease;
 
     &:hover {
-      text-decoration: underline;
+      text-decoration: none;
+      color: $link-color-hover;
+      border-bottom: 1px solid $link-color-hover;
 
       img {
-        box-shadow: 0 0 10px rgba(#000, 0.25);
+        box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+        transform: scale(1.02);
       }
     }
   }

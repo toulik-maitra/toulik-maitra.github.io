@@ -1,0 +1,205 @@
+/* ==========================================================================
+   CUSTOM STYLES FOR TOULIK MAITRA'S WEBSITE
+   ========================================================================== */
+
+/* Enhanced page transitions */
+.page__content {
+  animation: fadeInUp 0.6s ease-out;
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Professional section dividers */
+.page__content hr {
+  border: none;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, #3498db, transparent);
+  margin: 2em 0;
+}
+
+/* Enhanced blockquotes */
+blockquote {
+  background: linear-gradient(135deg, rgba(52, 152, 219, 0.05), rgba(44, 62, 80, 0.05));
+  border-left: 4px solid #3498db;
+  padding: 1.5em;
+  margin: 2em 0;
+  border-radius: 0 8px 8px 0;
+  position: relative;
+}
+
+blockquote::before {
+  content: '"';
+  font-size: 4em;
+  color: #3498db;
+  position: absolute;
+  top: -10px;
+  left: 10px;
+  opacity: 0.3;
+}
+
+/* Enhanced code blocks */
+code {
+  background: rgba(44, 62, 80, 0.1);
+  padding: 0.2em 0.4em;
+  border-radius: 4px;
+  font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
+  color: #2c3e50;
+}
+
+/* Professional table styling */
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 1.5em 0;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 12px 15px;
+  text-align: left;
+  border-bottom: 1px solid #ecf0f1;
+}
+
+th {
+  background: linear-gradient(135deg, #2c3e50, #34495e);
+  color: white;
+  font-weight: 600;
+}
+
+tr:hover {
+  background-color: rgba(52, 152, 219, 0.05);
+}
+
+/* Enhanced social media icons */
+.author__urls-wrapper .author__urls li a {
+  transition: all 0.3s ease;
+  border-radius: 50%;
+  padding: 8px;
+}
+
+.author__urls-wrapper .author__urls li a:hover {
+  transform: scale(1.1);
+  background: rgba(52, 152, 219, 0.1);
+}
+
+/* Professional footer enhancement */
+footer {
+  background: linear-gradient(135deg, #2c3e50, #34495e);
+  color: white;
+  padding: 2em 0;
+  margin-top: 3em;
+}
+
+/* Enhanced navigation */
+.masthead__menu-item a {
+  position: relative;
+  transition: all 0.3s ease;
+}
+
+.masthead__menu-item a::after {
+  content: '';
+  position: absolute;
+  bottom: -5px;
+  left: 0;
+  width: 0;
+  height: 2px;
+  background: #3498db;
+  transition: width 0.3s ease;
+}
+
+.masthead__menu-item a:hover::after {
+  width: 100%;
+}
+
+/* Professional card-like content sections */
+.page__content > div {
+  background: white;
+  padding: 2em;
+  margin: 1.5em 0;
+  border-radius: 8px;
+  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08);
+  border-left: 4px solid #3498db;
+}
+
+/* Enhanced typography for better readability */
+.page__content h3 {
+  color: #34495e;
+  font-weight: 600;
+  margin-top: 1.5em;
+  margin-bottom: 0.8em;
+}
+
+.page__content h4 {
+  color: #7f8c8d;
+  font-weight: 500;
+  margin-top: 1.2em;
+  margin-bottom: 0.6em;
+}
+
+/* Professional image styling */
+.page__content img {
+  border-radius: 8px;
+  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
+  transition: all 0.3s ease;
+}
+
+.page__content img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+}
+
+/* Enhanced list styling */
+.page__content ul {
+  padding-left: 1.5em;
+}
+
+.page__content ul li {
+  position: relative;
+  padding-left: 0.5em;
+}
+
+.page__content ul li::before {
+  content: '▸';
+  color: #3498db;
+  font-weight: bold;
+  position: absolute;
+  left: -1.2em;
+}
+
+/* Professional emphasis styling */
+.page__content strong {
+  color: #2c3e50;
+  font-weight: 600;
+}
+
+.page__content em {
+  color: #7f8c8d;
+  font-style: italic;
+}
+
+/* Enhanced mobile responsiveness */
+@media (max-width: 768px) {
+  .page__content > div {
+    padding: 1.5em;
+    margin: 1em 0;
+  }
+  
+  .page__content h2 {
+    font-size: 1.5em;
+  }
+  
+  .page__content h3 {
+    font-size: 1.3em;
+  }
+}

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Toulik Maitra"
 title_separator          : "-"
 name                     : &name "Toulik Maitra"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Chemical Engineering at UC Davis | Researching organic semiconductors and phonon spectroscopy | Quantum chemistry and condensed matter physics"
 url                      : https://toulik-maitra.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
@@ -75,8 +75,8 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 future                   : true
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
@@ -137,9 +137,9 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google-analytics-4" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
-    tracking_id          :
+    tracking_id          : "G-XXXXXXXXXX" # Replace with your actual GA4 tracking ID
 
 
 # Reading Files

@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US"
+# locale                   : "en-US" - Disabled for GitHub Pages compatibility
 title                    : "Toulik Maitra"
-title_separator          : "-"
+# title_separator          : "-" - Disabled for GitHub Pages compatibility
 name                     : &name "Toulik Maitra"
 description              : &description "PhD Candidate in Chemical Engineering at UC Davis | Researching organic semiconductors and phonon spectroscopy"
 url                      : https://toulik-maitra.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -77,10 +77,10 @@ author:
 # Site Settings
 teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default) - Disabled for GitHub Pages compatibility
-words_per_minute         : 160
-future                   : false
-read_more                : false # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false # Disabled for GitHub Pages compatibility
+# words_per_minute         : 160 - Disabled for GitHub Pages compatibility
+# future                   : false - Disabled for GitHub Pages compatibility
+# read_more                : false # if enabled, adds "Read more" links to excerpts - Disabled for GitHub Pages compatibility
+# talkmap_link             : false # Disabled for GitHub Pages compatibility
 # comments:
 #   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
 #   disqus:
@@ -107,9 +107,9 @@ talkmap_link             : false # Disabled for GitHub Pages compatibility
 #       type               : "date"
 #       options:
 #         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
-atom_feed:
-  hide                   : true      # change to true to hide the RSS feed in the footer
-  path                   : # blank (default) uses feed.xml
+# atom_feed:
+#   hide                   : true      # change to true to hide the RSS feed in the footer
+#   path                   : # blank (default) uses feed.xml
 
 
 # SEO Related - Disabled for GitHub Pages compatibility
@@ -143,37 +143,38 @@ analytics:
 
 
 # Reading Files
-include:
-  - _pages
-  - files
-exclude:
-  - "*.sublime-project"
-  - "*.sublime-workspace"
-  - .asset-cache
-  - .bundle
-  - .jekyll-assets-cache
-  - .sass-cache
-  - CHANGELOG
-  - Capfile
-  - Gruntfile.js
-  - Rakefile
-  - assets/js/_main.js
-  - assets/js/plugins
-  - assets/js/vendor
-  - config
-  - gulpfile.js
-  - log
-  - node_modules
-  - tmp
-  - vendor
-# keep_files:
+# include:
+#   - _pages
+#   - files
+# exclude:
+#   - "*.sublime-project"
+#   - "*.sublime-workspace"
+#   - .asset-cache
+#   - .bundle
+#   - .jekyll-assets-cache
+#   - .sass-cache
+#   - CHANGELOG
+#   - Capfile
+#   - Gruntfile.js
+#   - Rakefile
+#   - assets/js/_main.js
+#   - assets/js/plugins
+#   - assets/js/vendor
+#   - config
+#   - gulpfile.js
+#   - log
+#   - node_modules
+#   - tmp
+#   - vendor
+# keep_files - Disabled for GitHub Pages compatibility
 #   - .git
 #   - .svn
+# encoding and markdown_ext - Disabled for GitHub Pages compatibility
 # encoding: "utf-8"
 # markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
 
-# Conversion
+# Conversion - Disabled for GitHub Pages compatibility
 # markdown: kramdown
 # highlighter: rouge
 # lsi: false
@@ -181,7 +182,7 @@ exclude:
 # incremental: false
 
 
-# Markdown Processing
+# Markdown Processing - Disabled for GitHub Pages compatibility
 # kramdown:
 #   input: GFM
 #   hard_wrap: false
@@ -218,7 +219,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
+      # read_time: true - Disabled for GitHub Pages compatibility
       # comments: true - Disabled for GitHub Pages compatibility
       # share: true - Disabled for GitHub Pages compatibility
       # related: true - Disabled for GitHub Pages compatibility
@@ -266,30 +267,36 @@ defaults:
   #       share: true
 
 
-# Sass/SCSS
+# Sass/SCSS - Disabled for GitHub Pages compatibility
 # sass:
 #   sass_dir: _sass
 #   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
 
 # Outputting
-permalink: /:title/
-# paginate: 5 # amount of posts to show - Disabled for GitHub Pages compatibility
-# paginate_path: /page:num/ - Disabled for GitHub Pages compatibility
-# timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+# permalink: /:title/ - Disabled for GitHub Pages compatibility
+# Pagination - Disabled for GitHub Pages compatibility
+# paginate: 5 # amount of posts to show
+# paginate_path: /page:num/
+# timezone - Disabled for GitHub Pages compatibility
+# timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database/time_zones
 
 
-# Plugins
+# Plugins - GitHub Pages compatible only
 plugins:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-seo-tag
 # mimic GitHub Pages with --safe
 whitelist:
   - jekyll-sitemap
   - jekyll-feed
+  - jekyll-github-metadata
+  - jekyll-seo-tag
 
 
-# Archives
+# Archives - Disabled for GitHub Pages compatibility
 #  Type
 #  - GitHub Pages compatible archive pages built with Liquid ~> type: liquid (default)
 #  - Jekyll Archives plugin archive pages ~> type: jekyll-archives
@@ -318,7 +325,7 @@ whitelist:
 #     tag: /tags/:name/
 
 
-# HTML Compression - Removed for GitHub Pages compatibility
+# HTML Compression - Disabled for GitHub Pages compatibility
 # - http://jch.penibelst.de/
 # compress_html:
 #   clippings: all

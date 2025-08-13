@@ -1,205 +1,216 @@
 /* ==========================================================================
-   CUSTOM STYLES FOR TOULIK MAITRA'S WEBSITE
+   CUSTOM STYLES FOR TOULIK MAITRA'S WEBSITE - MINIMALIST DESIGN
    ========================================================================== */
 
-/* Enhanced page transitions */
+/* Clean, minimalist page transitions */
 .page__content {
-  animation: fadeInUp 0.6s ease-out;
+  animation: fadeIn 0.8s ease-out;
 }
 
-@keyframes fadeInUp {
+@keyframes fadeIn {
   from {
     opacity: 0;
-    transform: translateY(20px);
   }
   to {
     opacity: 1;
-    transform: translateY(0);
   }
 }
 
-/* Professional section dividers */
+/* Minimalist section dividers */
 .page__content hr {
   border: none;
-  height: 2px;
-  background: linear-gradient(90deg, transparent, #3498db, transparent);
-  margin: 2em 0;
+  height: 1px;
+  background: #e2e8f0;
+  margin: 2.5em 0;
 }
 
-/* Enhanced blockquotes */
+/* Clean blockquotes */
 blockquote {
-  background: linear-gradient(135deg, rgba(52, 152, 219, 0.05), rgba(44, 62, 80, 0.05));
-  border-left: 4px solid #3498db;
-  padding: 1.5em;
+  background: #f7fafc;
+  border-left: 3px solid #3182ce;
+  padding: 1.2em 1.5em;
   margin: 2em 0;
-  border-radius: 0 8px 8px 0;
-  position: relative;
+  border-radius: 0 6px 6px 0;
+  font-style: italic;
+  color: #4a5568;
 }
 
-blockquote::before {
-  content: '"';
-  font-size: 4em;
-  color: #3498db;
-  position: absolute;
-  top: -10px;
-  left: 10px;
-  opacity: 0.3;
-}
-
-/* Enhanced code blocks */
+/* Minimalist code blocks */
 code {
-  background: rgba(44, 62, 80, 0.1);
+  background: #f7fafc;
   padding: 0.2em 0.4em;
-  border-radius: 4px;
+  border-radius: 3px;
   font-family: 'Monaco', 'Menlo', 'Ubuntu Mono', monospace;
-  color: #2c3e50;
+  color: #2d3748;
+  border: 1px solid #e2e8f0;
 }
 
-/* Professional table styling */
+/* Clean table styling */
 table {
   border-collapse: collapse;
   width: 100%;
   margin: 1.5em 0;
-  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
-  border-radius: 8px;
+  border: 1px solid #e2e8f0;
+  border-radius: 6px;
   overflow: hidden;
 }
 
 th, td {
-  padding: 12px 15px;
+  padding: 12px 16px;
   text-align: left;
-  border-bottom: 1px solid #ecf0f1;
+  border-bottom: 1px solid #e2e8f0;
 }
 
 th {
-  background: linear-gradient(135deg, #2c3e50, #34495e);
-  color: white;
+  background: #f7fafc;
+  color: #2d3748;
   font-weight: 600;
+  border-bottom: 2px solid #e2e8f0;
 }
 
 tr:hover {
-  background-color: rgba(52, 152, 219, 0.05);
+  background-color: #f7fafc;
 }
 
-/* Enhanced social media icons */
+/* Minimalist social media icons */
 .author__urls-wrapper .author__urls li a {
-  transition: all 0.3s ease;
-  border-radius: 50%;
-  padding: 8px;
+  transition: all 0.2s ease;
+  border-radius: 4px;
+  padding: 6px;
 }
 
 .author__urls-wrapper .author__urls li a:hover {
-  transform: scale(1.1);
-  background: rgba(52, 152, 219, 0.1);
+  background: #f7fafc;
 }
 
-/* Professional footer enhancement */
+/* Clean footer */
 footer {
-  background: linear-gradient(135deg, #2c3e50, #34495e);
-  color: white;
+  background: #f7fafc;
+  color: #4a5568;
   padding: 2em 0;
   margin-top: 3em;
+  border-top: 1px solid #e2e8f0;
 }
 
-/* Enhanced navigation */
+/* Minimalist navigation */
 .masthead__menu-item a {
   position: relative;
-  transition: all 0.3s ease;
+  transition: all 0.2s ease;
+  font-weight: 500;
 }
 
-.masthead__menu-item a::after {
-  content: '';
-  position: absolute;
-  bottom: -5px;
-  left: 0;
-  width: 0;
-  height: 2px;
-  background: #3498db;
-  transition: width 0.3s ease;
+.masthead__menu-item a:hover {
+  color: #3182ce;
 }
 
-.masthead__menu-item a:hover::after {
-  width: 100%;
-}
-
-/* Professional card-like content sections */
+/* Clean content sections - no cards, just clean spacing */
 .page__content > div {
-  background: white;
-  padding: 2em;
   margin: 1.5em 0;
-  border-radius: 8px;
-  box-shadow: 0 2px 15px rgba(0, 0, 0, 0.08);
-  border-left: 4px solid #3498db;
 }
 
 /* Enhanced typography for better readability */
+.page__content h2 {
+  color: #2d3748;
+  font-weight: 700;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  font-size: 1.8em;
+}
+
 .page__content h3 {
-  color: #34495e;
+  color: #4a5568;
   font-weight: 600;
-  margin-top: 1.5em;
+  margin-top: 1.8em;
   margin-bottom: 0.8em;
+  font-size: 1.4em;
 }
 
 .page__content h4 {
-  color: #7f8c8d;
+  color: #718096;
   font-weight: 500;
-  margin-top: 1.2em;
+  margin-top: 1.5em;
   margin-bottom: 0.6em;
+  font-size: 1.2em;
 }
 
-/* Professional image styling */
+/* Clean image styling */
 .page__content img {
-  border-radius: 8px;
-  box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15);
-  transition: all 0.3s ease;
+  border-radius: 6px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  transition: all 0.2s ease;
 }
 
 .page__content img:hover {
-  transform: scale(1.02);
-  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.2);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.12);
 }
 
-/* Enhanced list styling */
+/* Minimalist list styling */
 .page__content ul {
-  padding-left: 1.5em;
+  padding-left: 1.2em;
 }
 
 .page__content ul li {
-  position: relative;
-  padding-left: 0.5em;
+  margin-bottom: 0.5em;
+  line-height: 1.6;
 }
 
 .page__content ul li::before {
-  content: '▸';
-  color: #3498db;
+  content: '•';
+  color: #3182ce;
   font-weight: bold;
   position: absolute;
-  left: -1.2em;
+  left: -1em;
 }
 
-/* Professional emphasis styling */
+/* Clean emphasis styling */
 .page__content strong {
-  color: #2c3e50;
+  color: #2d3748;
   font-weight: 600;
 }
 
 .page__content em {
-  color: #7f8c8d;
+  color: #4a5568;
   font-style: italic;
 }
 
 /* Enhanced mobile responsiveness */
 @media (max-width: 768px) {
-  .page__content > div {
-    padding: 1.5em;
-    margin: 1em 0;
-  }
-  
   .page__content h2 {
-    font-size: 1.5em;
+    font-size: 1.6em;
   }
   
   .page__content h3 {
     font-size: 1.3em;
   }
+  
+  .page__content h4 {
+    font-size: 1.1em;
+  }
+}
+
+/* Minimalist masthead */
+.masthead {
+  background: rgba(255, 255, 255, 0.95);
+  backdrop-filter: blur(8px);
+  border-bottom: 1px solid #e2e8f0;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+}
+
+/* Clean sidebar */
+.author__avatar img {
+  border: 2px solid #e2e8f0;
+  background: white;
+}
+
+.author__name {
+  color: #2d3748;
+  font-weight: 700;
+}
+
+.author__bio {
+  color: #4a5568;
+  background: #f7fafc;
+  border-left: 3px solid #3182ce;
+  padding: 1em;
+  border-radius: 0 4px 4px 0;
 }

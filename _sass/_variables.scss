@@ -68,11 +68,11 @@ $code-background-color-dark : $light-gray;
 $text-color                 : $dark-gray;
 $border-color               : $lighter-gray;
 
-$primary-color              : #2d3748; // Professional dark gray
-$success-color              : #38a169; // Subtle green
-$warning-color              : #d69e2e; // Muted orange
-$danger-color               : #e53e3e; // Muted red
-$info-color                 : #3182ce; // Professional blue
+$primary-color              : #7a8288;
+$success-color              : #62c462;
+$warning-color              : #f89406;
+$danger-color               : #ee5f5b;
+$info-color                 : #52adc8;
 
 /* brands */
 $behance-color              : #1769FF;
@@ -102,18 +102,18 @@ $xing-color                 : #006567;
 
 
 /* links */
-$link-color                 : #3182ce; // Professional blue
-$link-color-hover           : #2c5282; // Darker blue on hover
-$link-color-visited         : #553c9a; // Muted purple for visited links
-$masthead-link-color        : #2d3748; // Dark gray for masthead
-$masthead-link-color-hover  : #4a5568; // Lighter gray on hover
+$link-color                 : $info-color;
+$link-color-hover           : mix(#000, $link-color, 25%);
+$link-color-visited         : mix(#fff, $link-color, 25%);
+$masthead-link-color        : $primary-color;
+$masthead-link-color-hover  : mix(#000, $primary-color, 25%);
 
 
 /*
    Breakpoints
    ========================================================================== */
 
-// @include breakpoint-set("to ems", true);
+@include breakpoint-set("to ems", true);
 /*
 $small                      : 400px;
 $medium                     : 500px;
@@ -122,36 +122,36 @@ $large                      : 1200px;
 $x-large                    : 1800px;
 */
 
-// $small                      : 600px !default;
-// $medium                     : 768px !default;
-// $medium-wide                : 900px !default;
-// $large                      : 925px !default;
-// $x-large                    : 1280px !default;
+$small                      : 600px !default;
+$medium                     : 768px !default;
+$medium-wide                : 900px !default;
+$large                      : 925px !default;
+$x-large                    : 1280px !default;
 
 /*
    Grid
    ========================================================================== */
 
-// $right-sidebar-width-narrow : 0px;
-// $right-sidebar-width        : 0px;
-// $right-sidebar-width-wide   : 0px;
+$right-sidebar-width-narrow : 0px;
+$right-sidebar-width        : 0px;
+$right-sidebar-width-wide   : 0px;
 
-// $susy: (
-//   columns: 12,
-//   column-width: 120px,
-//   gutters: 1/4,
-//   math: fluid,
-//   output: float,
-//   gutter-position: after,
-//   container: $large,
-//   global-box-sizing: border-box,
-//   // debug: (
-//   //   image: show,
-//   //   color: blue,
-//   //   output: overlay,
-//   //   toggle: top right,
-//   // ),
-// );
+$susy: (
+  columns: 12,
+  column-width: 120px,
+  gutters: 1/4,
+  math: fluid,
+  output: float,
+  gutter-position: after,
+  container: $large,
+  global-box-sizing: border-box,
+  // debug: (
+  //   image: show,
+  //   color: blue,
+  //   output: overlay,
+  //   toggle: top right,
+  // ),
+);
 
 
 /*

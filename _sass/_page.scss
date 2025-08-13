@@ -52,27 +52,11 @@
 
   h2 {
     padding-bottom: 0.5em;
-    border-bottom: 1px solid #e2e8f0;
-    color: #2d3748;
-    font-weight: 700;
-    margin-top: 2em;
-    
-    &:first-of-type {
-      margin-top: 1em;
-    }
+    border-bottom: 1px solid $border-color;
   }
 
   p, li, dl {
     font-size: 1em;
-    line-height: 1.7;
-  }
-  
-  li {
-    margin-bottom: 0.5em;
-    
-    strong {
-      color: #2d3748;
-    }
   }
 
   /* paragraph indents */
@@ -89,19 +73,13 @@
   }
 
   a {
-    text-decoration: none;
-    color: #3182ce;
-    border-bottom: 1px solid transparent;
-    transition: all 0.2s ease;
+    text-decoration: underline;
 
     &:hover {
-      text-decoration: none;
-      color: #2c5282;
-      border-bottom: 1px solid #2c5282;
+      text-decoration: underline;
 
       img {
-        box-shadow: 0 0 12px rgba(0, 0, 0, 0.15);
-        transform: scale(1.01);
+        box-shadow: 0 0 10px rgba(#000, 0.25);
       }
     }
   }

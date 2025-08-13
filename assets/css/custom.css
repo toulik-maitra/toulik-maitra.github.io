@@ -214,3 +214,65 @@ footer {
   padding: 1em;
   border-radius: 0 4px 4px 0;
 }
+
+/* Override any problematic SCSS variables */
+:root {
+  --primary-color: #2d3748;
+  --link-color: #3182ce;
+  --text-color: #4a5568;
+  --border-color: #e2e8f0;
+  --background-color: #f7fafc;
+}
+
+/* Force clean styling */
+body {
+  color: #4a5568;
+  background: #ffffff;
+}
+
+a {
+  color: #3182ce;
+}
+
+a:hover {
+  color: #2c5282;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: #2d3748;
+}
+
+/* Simple sidebar layout */
+@media (min-width: 1024px) {
+  .sidebar {
+    width: 16.66667%;
+    float: left;
+    position: fixed;
+    height: 100vh;
+    overflow-y: auto;
+    padding-top: 70px;
+  }
+  
+  .page {
+    margin-left: 16.66667%;
+    width: 83.33333%;
+  }
+}
+
+/* Clean button styling */
+.btn {
+  background-color: #2d3748;
+  color: white;
+  border: none;
+  padding: 0.5em 1em;
+  border-radius: 4px;
+  font-weight: 600;
+  transition: all 0.2s ease;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+}
+
+.btn:hover {
+  background-color: #4a5568;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+}

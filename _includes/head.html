@@ -17,5 +17,37 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/dark-mode.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<!-- Dark Mode Script -->
+<script>
+  // Check for saved theme preference or default to light mode
+  const currentTheme = localStorage.getItem('theme') || 'light';
+  document.documentElement.setAttribute('data-theme', currentTheme);
+  
+  // Function to toggle theme
+  function toggleTheme() {
+    const currentTheme = document.documentElement.getAttribute('data-theme');
+    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    
+    document.documentElement.setAttribute('data-theme', newTheme);
+    localStorage.setItem('theme', newTheme);
+    
+    // Update button icon
+    const button = document.querySelector('.theme-toggle');
+    if (button) {
+      button.innerHTML = newTheme === 'light' ? '🌙' : '☀️';
+    }
+  }
+  
+  // Add toggle button when DOM is loaded
+  document.addEventListener('DOMContentLoaded', function() {
+    const button = document.createElement('button');
+    button.className = 'theme-toggle';
+    button.innerHTML = currentTheme === 'light' ? '🌙' : '☀️';
+    button.onclick = toggleTheme;
+    document.body.appendChild(button);
+  });
+</script>

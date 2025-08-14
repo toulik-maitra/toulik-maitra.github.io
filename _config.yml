@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Toulik Maitra - Chemical Engineering Research"
+title                    : "Toulik Maitra"
 title_separator          : "|"
 name                     : &name "Toulik Maitra"
 description              : &description "PhD Candidate in Chemical Engineering at UC Davis, specializing in organic semiconductors and computational chemistry. Visiting Fellow at Max Planck Institute for Polymer Research."

@@ -1,11 +1,10 @@
 ---
-permalink: /about/
-title: "About"
+layout: single
+title: "Toulik Maitra"
 author_profile: true
-redirect_from: 
-  - /
-  - /about.html
 ---
+
+{% include base_path %}
 
 My name is Toulik Maitra, and I am currently a doctoral candidate in Chemical Engineering at <a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a>, working under Professor Adam Moulé. 
 
@@ -25,4 +24,3 @@ I use quantum chemistry and condensed matter physics approaches to explore sever
 * How can we develop better force fields for TADF materials to improve OLED performance?
 
 My aspiration is to develop methodologies that can unveil new aspects of our understanding of organic semiconductors, surpassing the capabilities of current density functional theory (DFT) and molecular dynamics (MD) simulations.
-

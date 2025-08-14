@@ -21,32 +21,75 @@
 <meta http-equiv="cleartype" content="on">
 
 <!-- Simple Dark Mode Toggle -->
-<script>
-  // Simple theme toggle
-  function toggleTheme() {
-    const html = document.documentElement;
-    const currentTheme = html.getAttribute('data-theme');
-    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
-    
-    html.setAttribute('data-theme', newTheme);
-    localStorage.setItem('theme', newTheme);
-    
-    const button = document.querySelector('.theme-toggle');
-    if (button) {
-      button.innerHTML = newTheme === 'light' ? '🌙' : '☀️';
-    }
+<style>
+  .theme-toggle {
+    position: fixed !important;
+    top: 20px !important;
+    right: 20px !important;
+    z-index: 9999 !important;
+    background: #333 !important;
+    color: white !important;
+    border: none !important;
+    border-radius: 50% !important;
+    width: 50px !important;
+    height: 50px !important;
+    cursor: pointer !important;
+    display: flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    font-size: 20px !important;
+    transition: all 0.3s ease !important;
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3) !important;
   }
   
-  // Set initial theme
+  .theme-toggle:hover {
+    background: #555 !important;
+    transform: scale(1.1) !important;
+  }
+  
+  [data-theme="dark"] .theme-toggle {
+    background: #666 !important;
+  }
+  
+  [data-theme="dark"] .theme-toggle:hover {
+    background: #888 !important;
+  }
+</style>
+
+<script>
+  // Wait for DOM to be fully loaded
   document.addEventListener('DOMContentLoaded', function() {
+    console.log('Dark mode script loaded');
+    
+    // Set initial theme
     const savedTheme = localStorage.getItem('theme') || 'light';
     document.documentElement.setAttribute('data-theme', savedTheme);
+    console.log('Initial theme set to:', savedTheme);
     
-    // Add toggle button
+    // Create toggle button
     const button = document.createElement('button');
     button.className = 'theme-toggle';
     button.innerHTML = savedTheme === 'light' ? '🌙' : '☀️';
-    button.onclick = toggleTheme;
+    button.title = savedTheme === 'light' ? 'Switch to dark mode' : 'Switch to light mode';
+    
+    // Add click handler
+    button.addEventListener('click', function() {
+      const html = document.documentElement;
+      const currentTheme = html.getAttribute('data-theme');
+      const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+      
+      console.log('Switching theme from', currentTheme, 'to', newTheme);
+      
+      html.setAttribute('data-theme', newTheme);
+      localStorage.setItem('theme', newTheme);
+      
+      // Update button icon
+      button.innerHTML = newTheme === 'light' ? '🌙' : '☀️';
+      button.title = newTheme === 'light' ? 'Switch to dark mode' : 'Switch to light mode';
+    });
+    
+    // Add button to page
     document.body.appendChild(button);
+    console.log('Dark mode toggle button added');
   });
 </script>

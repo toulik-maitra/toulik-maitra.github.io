@@ -40,5 +40,102 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// Custom dark mode styles
-@import "dark-mode";
+/* Dark Mode Styles */
+[data-theme="dark"] {
+  --bg-color: #1a1a1a;
+  --text-color: #e0e0e0;
+  --link-color: #4a9eff;
+  --border-color: #404040;
+  --code-bg: #2d2d2d;
+  --sidebar-bg: #2a2a2a;
+  --masthead-bg: #2a2a2a;
+  --footer-bg: #2a2a2a;
+}
+
+[data-theme="dark"] body {
+  background-color: var(--bg-color);
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .masthead {
+  background-color: var(--masthead-bg);
+  border-bottom: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .sidebar {
+  background-color: var(--sidebar-bg);
+  border-right: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .page__content {
+  background-color: var(--bg-color);
+}
+
+[data-theme="dark"] .archive__item-title a {
+  color: var(--link-color);
+}
+
+[data-theme="dark"] .archive__item-title a:hover {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .toc__menu {
+  background-color: var(--sidebar-bg);
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] code {
+  background-color: var(--code-bg);
+  color: var(--text-color);
+}
+
+[data-theme="dark"] pre {
+  background-color: var(--code-bg);
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .notice {
+  background-color: var(--sidebar-bg);
+  border: 1px solid var(--border-color);
+}
+
+[data-theme="dark"] .page__taxonomy {
+  color: var(--text-color);
+}
+
+[data-theme="dark"] .page__meta {
+  color: var(--text-color);
+}
+
+/* Dark mode toggle button */
+.theme-toggle {
+  position: fixed;
+  top: 20px;
+  right: 20px;
+  z-index: 1000;
+  background: #333;
+  color: white;
+  border: none;
+  border-radius: 50%;
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 20px;
+  transition: all 0.3s ease;
+}
+
+.theme-toggle:hover {
+  background: #555;
+  transform: scale(1.1);
+}
+
+[data-theme="dark"] .theme-toggle {
+  background: #666;
+}
+
+[data-theme="dark"] .theme-toggle:hover {
+  background: #888;
+}

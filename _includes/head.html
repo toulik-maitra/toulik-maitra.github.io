@@ -17,36 +17,35 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
-<link rel="stylesheet" href="{{ base_path }}/assets/css/dark-mode.css">
 
 <meta http-equiv="cleartype" content="on">
 
-<!-- Dark Mode Script -->
+<!-- Simple Dark Mode Toggle -->
 <script>
-  // Check for saved theme preference or default to light mode
-  const currentTheme = localStorage.getItem('theme') || 'light';
-  document.documentElement.setAttribute('data-theme', currentTheme);
-  
-  // Function to toggle theme
+  // Simple theme toggle
   function toggleTheme() {
-    const currentTheme = document.documentElement.getAttribute('data-theme');
-    const newTheme = currentTheme === 'light' ? 'dark' : 'light';
+    const html = document.documentElement;
+    const currentTheme = html.getAttribute('data-theme');
+    const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
     
-    document.documentElement.setAttribute('data-theme', newTheme);
+    html.setAttribute('data-theme', newTheme);
     localStorage.setItem('theme', newTheme);
     
-    // Update button icon
     const button = document.querySelector('.theme-toggle');
     if (button) {
       button.innerHTML = newTheme === 'light' ? '🌙' : '☀️';
     }
   }
   
-  // Add toggle button when DOM is loaded
+  // Set initial theme
   document.addEventListener('DOMContentLoaded', function() {
+    const savedTheme = localStorage.getItem('theme') || 'light';
+    document.documentElement.setAttribute('data-theme', savedTheme);
+    
+    // Add toggle button
     const button = document.createElement('button');
     button.className = 'theme-toggle';
-    button.innerHTML = currentTheme === 'light' ? '🌙' : '☀️';
+    button.innerHTML = savedTheme === 'light' ? '🌙' : '☀️';
     button.onclick = toggleTheme;
     document.body.appendChild(button);
   });

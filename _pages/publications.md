@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Publications"
+title: "Research Publications - Toulik Maitra"
 permalink: /publications/
 author_profile: true
 ---

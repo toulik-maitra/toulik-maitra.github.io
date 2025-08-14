@@ -8,10 +8,10 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Toulik Maitra"
-title_separator          : "-"
+title                    : "Toulik Maitra - Chemical Engineering Research"
+title_separator          : "|"
 name                     : &name "Toulik Maitra"
-description              : &description "personal description"
+description              : &description "PhD Candidate in Chemical Engineering at UC Davis, specializing in organic semiconductors and computational chemistry. Visiting Fellow at Max Planck Institute for Polymer Research."
 url                      : https://toulik-maitra.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"

@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Toulik Maitra - PhD Candidate in Chemical Engineering"
+title: "Toulik Maitra"
 author_profile: true
 redirect_from: 
   - /about/

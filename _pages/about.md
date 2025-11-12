@@ -64,7 +64,7 @@ redirect_from:
 
   <p>
     When I began my PhD, I intentionally sought to explore new research realms by transitioning to 
-    computational modeling—a decision that has profoundly shaped my perspective. My experience across 
+    computational modeling, a decision that has profoundly shaped my perspective. My experience across 
     experimental chemistry, business analysis, and computational research has given me a unique lens: 
     I see deep technology not just as scientific advancement, but as a strategic asset with commercial 
     and investment potential. I am passionate about translating research into scalable solutions that 

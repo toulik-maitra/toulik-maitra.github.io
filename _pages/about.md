@@ -19,7 +19,7 @@ redirect_from:
   </p>
 
   <p>
-    I am from a small village in West Bengal, India, Madanpur. 
+    I am from Madanpur, a small village in West Bengal, India. 
     Curiosity shaped my early learning, and that sense of exploration continues to guide my research. 
     I completed my Bachelor’s degree at the University of Calcutta in 2020, 
     where I studied hierarchical nanostructures for applications in photovoltaics and 
@@ -77,7 +77,7 @@ redirect_from:
     Beyond my research, I maintain a balanced life through activities. 
     I'm an avid soccer player and supporter (Manchester United), finding inspiration in the teamwork, 
     strategy, and discipline that the sport demands. I love adventure in the outdoors, whether hiking, 
-    camping, or simply exploring new landscapes. Reading is another hobby—recently, I've been 
+    camping, or simply exploring new landscapes. Reading is another hobby, recently, I've been 
     captivated by Ed Yong's <em>An Immense World</em>, which explores how different animals perceive 
     reality, reminding me that there are always new perspectives to discover. These interests, 
     combined with my core values of curiosity, discipline, and integrity, have been essential companions 

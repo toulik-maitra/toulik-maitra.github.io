@@ -8,26 +8,23 @@ redirect_from:
 ---
 <section id="about" class="about-section" style="max-width:800px;margin:auto;padding:2rem;font-family:'Inter',sans-serif;line-height:1.7;color:#222;">
   
-  <h1 style="font-size:2rem;font-weight:700;margin-bottom:0.5rem;">About Me</h1>
-  <hr style="border:0;border-top:2px solid #eee;margin-bottom:1.5rem;">
-
   <p>
-    I am <strong>Toulik Maitra</strong>, a doctoral candidate in <strong>Chemical Engineering</strong> at 
+    I am Toulik Maitra, a doctoral candidate in Chemical Engineering at 
     <a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a>, working with Professor 
-    <strong>Adam Moulé</strong>. I am also a <strong>visiting fellow</strong> at the 
+    Adam Moulé. I am also a visiting fellow at the 
     <a href="https://www.mpip-mainz.mpg.de/" target="_blank">Max Planck Institute for Polymer Research</a> 
     in Mainz, Germany, where I collaborate with the <em>Molecular Electronics Group</em> on developing 
-    polarizable force fields for thermally activated delayed fluorescence (TADF) emitters and contribute 
-    to the <strong>VOTCA</strong> software platform.
+    polarizable force fields for thermally activated delayed fluorescence (TADF) OLED emitters and contribute 
+    to the VOTCA software platform.
   </p>
 
   <p>
-    My academic journey began in a small village in <strong>West Bengal, India</strong>. 
+    I am from a small village in West Bengal, India, Madanpur. 
     Curiosity shaped my early learning, and that sense of exploration continues to guide my research. 
-    I completed my <strong>Bachelor’s degree at the University of Calcutta</strong> in 2020, 
+    I completed my Bachelor’s degree at the University of Calcutta in 2020, 
     where I studied hierarchical nanostructures for applications in photovoltaics and 
     photoelectrochemical water splitting. My undergraduate work led to five peer-reviewed publications 
-    and introduced me to the value of rigorous experimentation combined with purposeful design.
+    and introduced me to the value of experimentation combined with design.
   </p>
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">Research and Scientific Vision</h2>
@@ -56,17 +53,36 @@ redirect_from:
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">Interests Beyond Research</h2>
   <p>
-    I am deeply interested in the intersection of <strong>science, strategy, and investment</strong>. 
-    My exposure to computational modeling and materials innovation has shaped a perspective that 
-    connects deep technology with its commercial and strategic impact. I enjoy exploring how 
-    research translates into scalable solutions that can influence industries and investment decisions.
+    I believe that the most challenging problems often find their solutions at the intersection of disciplines. 
+    This conviction has guided my journey from experimental chemistry to business strategy, and now to 
+    computational research. During my undergraduate studies, I worked on designing and synthesizing 
+    dye-sensitized solar cells and water-splitting systems, gaining hands-on experience in renewable energy 
+    technologies. Recognizing the importance of using scientific innovation into viable business models, 
+    I participated in a Business Model Competition, which led to an internship as a business analyst at 
+    <strong>TATA Autocomps Systems Ltd.</strong>, where I conducted feasibility studies for production processes.
   </p>
 
   <p>
-    Outside the academic environment, I enjoy <strong>playing soccer</strong>, exploring the outdoors, 
-    and reading. I value curiosity, discipline, and integrity. These principles have guided me from a 
-    small Indian village to international research collaborations, shaping my approach to both science 
-    and life.
+    When I began my PhD, I intentionally sought to explore new research realms by transitioning to 
+    computational modeling—a decision that has profoundly shaped my perspective. My experience across 
+    experimental chemistry, business analysis, and computational research has given me a unique lens: 
+    I see deep technology not just as scientific advancement, but as a strategic asset with commercial 
+    and investment potential. I am passionate about translating research into scalable solutions that 
+    create value for industries, investors, and society. My goal is to serve as a bridge between science 
+    and business—advancing the field while growing companies that can transform innovative research into 
+    meaningful impact.
+  </p>
+
+  <p>
+    Beyond my research, I maintain a balanced life through activities that fuel both my mind and body. 
+    I'm an avid soccer player and supporter (Manchester United), finding inspiration in the teamwork, 
+    strategy, and discipline that the sport demands. I seek adventure in the outdoors, whether hiking, 
+    camping, or simply exploring new landscapes. Reading is another passion—recently, I've been 
+    captivated by Ed Yong's <em>An Immense World</em>, which explores how different animals perceive 
+    reality, reminding me that there are always new perspectives to discover. These interests, 
+    combined with my core values of curiosity, discipline, and integrity, have been essential companions 
+    on my journey from a small village in West Bengal to international research collaborations. They 
+    continue to shape not just how I approach science, but how I engage with the world.
   </p>
 
   <blockquote style="border-left:3px solid #ddd;padding-left:1rem;font-style:italic;color:#555;margin-top:1.5rem;">

@@ -74,10 +74,10 @@ redirect_from:
   </p>
 
   <p>
-    Beyond my research, I maintain a balanced life through activities that fuel both my mind and body. 
+    Beyond my research, I maintain a balanced life through activities. 
     I'm an avid soccer player and supporter (Manchester United), finding inspiration in the teamwork, 
-    strategy, and discipline that the sport demands. I seek adventure in the outdoors, whether hiking, 
-    camping, or simply exploring new landscapes. Reading is another passion—recently, I've been 
+    strategy, and discipline that the sport demands. I love adventure in the outdoors, whether hiking, 
+    camping, or simply exploring new landscapes. Reading is another hobby—recently, I've been 
     captivated by Ed Yong's <em>An Immense World</em>, which explores how different animals perceive 
     reality, reminding me that there are always new perspectives to discover. These interests, 
     combined with my core values of curiosity, discipline, and integrity, have been essential companions 

@@ -146,7 +146,7 @@ redirect_from:
       Download CV
     </a>
     <!-- REPLACE the email below with your preferred contact address, or swap to a /contact/ page link -->
-    <a href="mailto:toulikmaitra03@gmail.com"
+    <a href="mailto:toulikchemaitra@gmail.com"
        style="display:inline-block;padding:0.5rem 1.2rem;background:#fff;color:#333;border:1px solid #ccc;border-radius:4px;text-decoration:none;font-size:0.95rem;">
       Get in touch
     </a>

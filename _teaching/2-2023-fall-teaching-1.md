@@ -1,27 +1,15 @@
 ---
 title: "ECH 141: Introduction to Fluid Mechanics"
 collection: teaching
-type: "Junior level course"
+type: "Junior undergraduate course"
 permalink: /_teaching/2-2023-fall-teaching-1
-venue: "Department of Chemical Engineering, University of California Davis"
+venue: "Department of Chemical Engineering, UC Davis"
 date: 2023-09-01
-location: "Davis, USA"
+location: "Davis, CA"
 ---
 
-**Personal Learning**: This course has enabled me to enhance my teaching skills by explaining complex concepts of fluid mechanics in an engaging and entertaining manner, helping students visualize and comprehend the underlying equations more effectively.
+Fluid mechanics is a course where students often feel the math is outrunning their intuition. My approach was to anchor each concept to what fluids actually do physically before working through the algebra. The Navier-Stokes equations are harder to forget when you have a clear picture of what they are describing.
 
-## Course Overview
+I taught two full exam review sessions and held weekly discussion sections on problem sets. The aim in every session was to give students a physical model first, and the formalism second.
 
-ECH 141: Introduction to Fluid Mechanics is a Junior level undergraduate course offered by the Department of Chemical Engineering at the University of California, Davis. 
-
-### Teaching Experience
-
-Throughout the course, I conducted the following:
-
-- **Review Classes**: I taught 2 classes reviewing the core concepts before the exams, ensuring that students were well-prepared.
-- **Discussion Sessions**: I facilitated weekly discussion sessions, where we went over assignment problems and clarified any doubts.
-- **Curriculum**: I covered fundamental topics in fluid mechanics, extending up to the Navier-Stokes equations.
-
-For more details, you can view the [Course Evaluation Summary](/files/ech141_fall_2023.pdf).
-
-
+[Course Evaluation Summary](/files/ech141_fall_2023.pdf)

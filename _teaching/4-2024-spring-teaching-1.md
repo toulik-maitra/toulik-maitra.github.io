@@ -1,25 +1,15 @@
 ---
 title: "CHE 002C: General Chemistry"
 collection: teaching
-type: "Freshman/Sophomore level course"
+type: "Freshman/Sophomore undergraduate course"
 permalink: /_teaching/4-2024-spring-teaching-1
-venue: "Department of Chemistry, University of California Davis"
+venue: "Department of Chemistry, UC Davis"
 date: 2024-04-01
-location: "Davis, USA"
+location: "Davis, CA"
 ---
 
-**Personal Learning**: Throughout this course, I have been able to enhance my research capabilities and solidify my fundamental understanding of the subject matter, as it covered basic organic chemistry and complex experiments. 
+Electrochemistry and kinetics connect naturally to real applications, but they are easy to teach in a way that stays entirely abstract. I tried not to do that.
 
-## Course Overview
+I held one discussion section per week and supervised lab sessions where students built galvanic cells and measured the kinetics of coordination compound reactions. When students could watch a process happen in a beaker and then write the equation that described it, the equation stuck in a way it would not have otherwise.
 
-General Chemistry 2C is a Freshman/Sophmore level undergraduate course offered by the Department of Chemistry at the University of California, Davis.
-
-### Teaching Experience
-
-Throughout the course, I conducted the following:
-
-- **Discussion Sessions**: I held one discussion session every week to teach core concepts and solve assignments. These sessions covered topics from electrochemistry to chemical kinetics.
-- **Lab Sessions**: I supervised weekly lab sessions where students engaged in practical experiments. These experiments included making galvanic cells in electrochemistry and determining the kinetics of coordination compound complexes.
-
-For more details, you can view the [Course Evaluation Summary](/files/che002c_spring_2024.pdf).
-
+[Course Evaluation Summary](/files/che002c_spring_2024.pdf)

@@ -1,24 +1,19 @@
 ---
-title: "ECH 001: Coffee Lab: Introduction to Chemical Engineering"
+title: "ECH 001: Coffee Lab"
 collection: teaching
-type: "Freshman level course"
+type: "Freshman undergraduate course"
 permalink: /_teaching/6-2024-fall-teaching-1
-venue: "Department of Chemical Engineering, University of California Davis"
+venue: "Department of Chemical Engineering, UC Davis"
 date: 2024-10-01
-location: "Davis, USA"
+location: "Davis, CA"
 ---
 
-**Personal Learning**: In this course, I learned the process of making good coffee with the resources available. I have discovered how even small factors, such as water temperature, brewing method, and pH levels, can significantly impact the flavor.
+The best teaching tool I have used is a French press.
 
-## Course Overview
+Coffee Lab is a first-year course that introduces chemical engineering concepts through making coffee. Fluid dynamics, mass transfer, extraction kinetics, heat transfer: all of it shows up in a cup. Students who have not yet taken a single engineering course can watch these principles operate in something they use every day.
 
-Coffee Lab is a Freshman level undergraduate course offered by the Department of Chemical Engineering at the University of California, Davis.
+I supervised three lab sessions per week. We worked through different brewing methods, varied water temperature and grind size, measured pH, and connected what students observed directly to the underlying engineering concepts. The goal was to give students a working mental model of what chemical engineers actually think about, before the formal coursework started.
 
-### Teaching Experience
+It worked better than most courses I have taught. First-year students who do not yet know what to expect from an engineering degree are the hardest audience to reach. A tangible problem changes that completely.
 
-Throughout the course, I conducted the following:
-
-- **Lab Sessions**: I supervised weekly three-lab sessions where students engaged in practical experiments. These experiments included making coffee using different brewing method and understanding fundamental Chemical Engineering concepts like fluid dynamics and mass transfer.
-
-For more details, you can view the [Course Evaluation Summary](/files/ech001_fall_2024.pdf).
-
+[Course Evaluation Summary](/files/ech001_fall_2024.pdf)

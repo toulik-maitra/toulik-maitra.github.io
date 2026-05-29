@@ -17,7 +17,7 @@ redirect_from:
   </p>
 
   <p>
-    I grew up in Madanpur, a small village in West Bengal. I didn't have a research path mapped out —
+    I grew up in Madanpur, a small village in West Bengal. I didn't have a research path mapped out,
     just a persistent need to understand why things work the way they do. That curiosity took me
     through experimental chemistry at the University of Calcutta, through a deliberate pivot into
     computational methods at the start of my PhD, and eventually into research collaborations across
@@ -27,8 +27,8 @@ redirect_from:
   <h2 style="margin-top:2rem;font-size:1.5rem;">What I work on</h2>
 
   <p>
-    At UC Davis, my work is on phonon spectra in organic semiconductors — how molecular vibrations
-    and structural disorder shape charge transport. Phonon spectroscopy in disordered organic systems
+    At UC Davis, my work is on phonon spectra in organic semiconductors, specifically how molecular
+    vibrations and structural disorder shape charge transport. Phonon spectroscopy in disordered organic systems
     doesn't get a lot of attention, partly because it's genuinely hard to do well. But the answers
     it produces are fundamental: understanding <em>why</em> these materials behave the way they do,
     not just recording that they do.
@@ -36,8 +36,8 @@ redirect_from:
 
   <p>
     At MPIP, I work on thermally activated delayed fluorescence (TADF) emitters for OLEDs. The
-    structural correlation in TADF materials — how molecular arrangement shapes photophysical
-    behavior — is still largely uncharted. I'm developing polarizable force fields to work out that
+    structural correlation in TADF materials (how molecular arrangement shapes photophysical
+    behavior) is still largely uncharted. I'm developing polarizable force fields to work out that
     picture and contributing to the
     <a href="https://www.votca.org/" target="_blank">VOTCA</a> open-source software platform.
     Get the structural correlation right, and the payoff is better OLED materials. The path from
@@ -51,7 +51,7 @@ redirect_from:
 
   <h3 style="margin-top:1.5rem;font-size:1.2rem;">Questions that drive my research</h3>
   <ul style="margin-left:1.5rem;">
-    <li>How do we design organic semiconductors with better charge carrier mobility — and can we predict it before synthesizing anything?</li>
+    <li>How do we design organic semiconductors with better charge carrier mobility, and can we predict it before synthesizing anything?</li>
     <li>What can neutron spectroscopy tell us about disorder that optical methods can't reach?</li>
     <li>How do polarizable force fields change what we can reliably predict for TADF emitters?</li>
     <li>Where does computational cost become the real bottleneck, and how do we push that boundary?</li>
@@ -63,7 +63,7 @@ redirect_from:
   <h2 style="margin-top:2rem;font-size:1.5rem;">How I got here</h2>
 
   <p>
-    My undergraduate work was entirely experimental — synthesizing hierarchical nanostructures for
+    My undergraduate work was entirely experimental: synthesizing hierarchical nanostructures for
     photovoltaics and photoelectrochemical water splitting at the University of Calcutta. I had no
     background in computational chemistry then. When I started my PhD, I chose to go somewhere I had
     no existing expertise. That turned out to be the right call.
@@ -71,7 +71,7 @@ redirect_from:
 
   <p>
     Learning computational methods from scratch while doing active research forced me to build
-    intuition I wouldn't have gotten otherwise — about what simulations can and can't tell you, and
+    intuition I wouldn't have gotten otherwise, about what simulations can and can't tell you and
     about where experimental and computational approaches genuinely need each other. It also wired in
     a habit: when I run into a method from another field that might solve something I'm stuck on, I
     want to understand it properly before applying it. Borrowing without understanding usually breaks
@@ -79,7 +79,7 @@ redirect_from:
   </p>
 
   <p>
-    Before my PhD, I spent time in industry — a business analyst internship at
+    Before my PhD, I spent time in industry as a business analyst intern at
     <strong>TATA Autocomps Systems Ltd.</strong>, working on production feasibility studies. That was
     the first time I had to think about what research was actually <em>for</em>. Not just whether the
     science was correct, but whether it connected to something people needed to build. I still think
@@ -93,8 +93,8 @@ redirect_from:
 
   <p>
     Results matter to me. My publications are on
-    <a href="https://scholar.google.com/citations?user=uno6C3UAAAAJ&sortby=pubdate" target="_blank">Google Scholar</a>
-    — five from undergrad, more coming from my PhD work — but what I actually track is whether the
+    <a href="https://scholar.google.com/citations?user=uno6C3UAAAAJ&sortby=pubdate" target="_blank">Google Scholar</a>.
+    Five from undergrad, more coming from my PhD work. What I actually track is whether the
     research moves something forward. Publications are how the field keeps score; they're not the
     point.
   </p>
@@ -110,7 +110,7 @@ redirect_from:
   <p>
     I also think presentation matters more than researchers usually admit. A figure that makes the
     reader work to extract the point isn't doing its job. I put real time into every plot and
-    slide — not because aesthetics are decorative, but because making data legible is part of doing
+    slide, not because aesthetics are decorative, but because making data legible is part of doing
     science well. The reader's attention is finite; it shouldn't go toward decoding a bad figure.
   </p>
 
@@ -127,7 +127,7 @@ redirect_from:
   <h2 style="margin-top:2rem;font-size:1.5rem;">Outside the lab</h2>
 
   <p>
-    I play soccer and follow Manchester United — I genuinely admire the teamwork and discipline the
+    I play soccer and follow Manchester United. I genuinely admire the teamwork and discipline the
     game demands, even when United is making that harder than it needs to be. I spend time outside
     whenever I can: hiking, camping, finding places I haven't been before. Right now I'm reading
     Ed Yong's <em>An Immense World</em>, which is about how different animals perceive reality.

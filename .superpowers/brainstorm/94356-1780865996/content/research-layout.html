@@ -1,0 +1,93 @@
+<h2>Research Page — Layout Approaches</h2>
+<p class="subtitle">Three ways to structure the new Research page</p>
+
+<div class="cards">
+
+  <div class="card" data-choice="a" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="font-family:sans-serif;font-size:12px;line-height:1.5;padding:12px;background:#f9f9f9;border-radius:4px;">
+        <div style="border-bottom:1px solid #ddd;padding-bottom:6px;margin-bottom:8px;font-weight:700;font-size:14px;">Research</div>
+        <div style="font-weight:600;margin-bottom:4px;font-size:12px;">What I work on</div>
+        <div style="height:6px;background:#ddd;border-radius:2px;margin-bottom:3px;width:95%"></div>
+        <div style="height:6px;background:#ddd;border-radius:2px;margin-bottom:3px;width:80%"></div>
+        <div style="height:6px;background:#ddd;border-radius:2px;margin-bottom:10px;width:90%"></div>
+        <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Questions that drive my research</div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:85%"></div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:70%"></div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:10px;width:78%"></div>
+        <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Conferences</div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:75%"></div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:60%"></div>
+        <div style="height:5px;background:#ddd;border-radius:2px;width:65%"></div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>A — Simple flowing page</h3>
+      <p>Sections stack vertically like the current About page. Clean, consistent with existing site style. Same HTML structure as About — just different content. Easiest to maintain.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="b" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="font-family:sans-serif;font-size:12px;line-height:1.5;padding:12px;background:#f9f9f9;border-radius:4px;">
+        <div style="border-bottom:1px solid #ddd;padding-bottom:6px;margin-bottom:8px;font-weight:700;font-size:14px;">Research</div>
+        <div style="display:flex;gap:8px;margin-bottom:8px;">
+          <div style="flex:1;border:1px solid #ccc;border-radius:4px;padding:8px;">
+            <div style="font-weight:600;font-size:11px;margin-bottom:4px;color:#555;">UC Davis</div>
+            <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;"></div>
+            <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:80%"></div>
+            <div style="height:5px;background:#ddd;border-radius:2px;width:70%"></div>
+          </div>
+          <div style="flex:1;border:1px solid #ccc;border-radius:4px;padding:8px;">
+            <div style="font-weight:600;font-size:11px;margin-bottom:4px;color:#555;">MPIP</div>
+            <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;"></div>
+            <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:75%"></div>
+            <div style="height:5px;background:#ddd;border-radius:2px;width:85%"></div>
+          </div>
+        </div>
+        <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Questions that drive my research</div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:85%"></div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:10px;width:70%"></div>
+        <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Conferences</div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:75%"></div>
+        <div style="height:5px;background:#ddd;border-radius:2px;width:60%"></div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>B — Side-by-side project cards</h3>
+      <p>The two projects (UC Davis / MPIP) sit as parallel cards at the top, then research questions and conferences flow below. Visually separates the two institutions and makes the dual-affiliation clear at a glance.</p>
+    </div>
+  </div>
+
+  <div class="card" data-choice="c" onclick="toggleSelect(this)">
+    <div class="card-image">
+      <div style="font-family:sans-serif;font-size:12px;line-height:1.5;padding:12px;background:#f9f9f9;border-radius:4px;">
+        <div style="border-bottom:1px solid #ddd;padding-bottom:6px;margin-bottom:8px;font-weight:700;font-size:14px;">Research</div>
+        <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Current projects</div>
+        <div style="height:6px;background:#ddd;border-radius:2px;margin-bottom:3px;width:95%"></div>
+        <div style="height:6px;background:#ddd;border-radius:2px;margin-bottom:8px;width:80%"></div>
+        <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Research questions</div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:85%"></div>
+        <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:8px;width:70%"></div>
+        <div style="display:flex;gap:8px;">
+          <div style="flex:1;">
+            <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Conferences</div>
+            <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:75%"></div>
+            <div style="height:5px;background:#ddd;border-radius:2px;margin-bottom:3px;width:60%"></div>
+            <div style="height:5px;background:#ddd;border-radius:2px;width:65%"></div>
+          </div>
+          <div style="flex:1;">
+            <div style="font-weight:600;margin-bottom:4px;font-size:12px;">Google Scholar →</div>
+            <div style="height:5px;background:#aaa;border-radius:2px;margin-bottom:3px;width:80%"></div>
+            <div style="height:5px;background:#ddd;border-radius:2px;width:60%"></div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="card-body">
+      <h3>C — Two-column bottom (text + links)</h3>
+      <p>Projects and questions flow top-to-bottom, then the bottom splits into two columns: conferences on the left, Google Scholar / publication links on the right. Good for scannable reference info.</p>
+    </div>
+  </div>
+
+</div>

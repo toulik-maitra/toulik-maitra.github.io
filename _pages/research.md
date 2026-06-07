@@ -74,7 +74,7 @@ author_profile: true
         <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">$3k for research supplies.</td>
       </tr>
       <tr style="border-bottom:1px solid #eee;">
-        <td style="padding:0.6rem 0.4rem;font-weight:600;">1st Place — Eureka, Kshitij 2020</td>
+        <td style="padding:0.6rem 0.4rem;font-weight:600;">1st Place at Eureka, Kshitij 2020</td>
         <td style="padding:0.6rem 0.4rem;color:#555;">IIT Kharagpur</td>
         <td style="padding:0.6rem 0.4rem;color:#888;white-space:nowrap;">Feb 2020</td>
       </tr>
@@ -82,7 +82,7 @@ author_profile: true
         <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">Techno-innovation competition; presented new innovative ideas.</td>
       </tr>
       <tr style="border-bottom:1px solid #eee;">
-        <td style="padding:0.6rem 0.4rem;font-weight:600;">Top 25 Teams in India — Empresario 2020</td>
+        <td style="padding:0.6rem 0.4rem;font-weight:600;">Top 25 Teams in India, Empresario 2020</td>
         <td style="padding:0.6rem 0.4rem;color:#555;">E-Cell IIT Kharagpur</td>
         <td style="padding:0.6rem 0.4rem;color:#888;white-space:nowrap;">Jan 2020</td>
       </tr>
@@ -90,7 +90,7 @@ author_profile: true
         <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">Selected from 1,400 teams across India in a global entrepreneurship event.</td>
       </tr>
       <tr style="border-bottom:1px solid #eee;">
-        <td style="padding:0.6rem 0.4rem;font-weight:600;">1st Place — Azeotropy Entrepreneurship Competition</td>
+        <td style="padding:0.6rem 0.4rem;font-weight:600;">1st Place at Azeotropy Entrepreneurship Competition</td>
         <td style="padding:0.6rem 0.4rem;color:#555;">IIT Bombay</td>
         <td style="padding:0.6rem 0.4rem;color:#888;white-space:nowrap;">Mar 2019</td>
       </tr>
@@ -102,21 +102,21 @@ author_profile: true
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">Conferences</h2>
 
-  <h3 style="margin-top:1.5rem;font-size:1.1rem;">APS March Meeting 2026 — Denver, CO</h3>
+  <h3 style="margin-top:1.5rem;font-size:1.1rem;">APS March Meeting 2026, Denver, CO</h3>
   <ul style="margin-left:1.5rem;">
     <li><em>Talk:</em> Understanding the effect of fluorination on charge transport in organic semiconductors</li>
     <li><em>Poster:</em> Structural effects of TADF molecules on device performance</li>
   </ul>
 
-  <h3 style="margin-top:1.5rem;font-size:1.1rem;">ACS Spring 2026 — Atlanta, GA</h3>
+  <h3 style="margin-top:1.5rem;font-size:1.1rem;">ACS Spring 2026, Atlanta, GA</h3>
   <ul style="margin-left:1.5rem;">
     <li><em>Talk:</em> Understanding structure and phonon signatures using a voxelization approach to MD simulations</li>
     <li><em>Talk:</em> Structural effects of TADF molecules on device performance</li>
   </ul>
 
-  <h3 style="margin-top:1.5rem;font-size:1.1rem;">Gordon Research Seminar (GRS) / Gordon Research Conference (GRC) — Electronic Processes in Organic Materials, Italy</h3>
+  <h3 style="margin-top:1.5rem;font-size:1.1rem;">Gordon Research Seminar (GRS) / Gordon Research Conference (GRC): Electronic Processes in Organic Materials 2026, Italy</h3>
   <ul style="margin-left:1.5rem;">
-    <li>Selected as speaker (GRS) and poster presenter (GRC) — unable to attend due to funding constraints</li>
+    <li>Selected as speaker (GRS) and poster presenter (GRC), but was unable to attend due to funding constraints</li>
   </ul>
 
   <div style="margin-top:2rem;">

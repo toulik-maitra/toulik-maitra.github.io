@@ -15,7 +15,7 @@ Create a dedicated Research page accessible from the top nav. Move the "What I w
 
 ### Sections (top to bottom)
 
-1. **Opening line** — "My research focuses on understanding molecular-level structure and dynamics in organic electronic materials, combining atomistic simulation with neutron spectroscopy."
+1. **Opening line** — "I work on organic electronic materials. Specifically, how molecular-level structure determines the way charge moves through them, and why it's so hard to predict. Simulation and neutron spectroscopy are how I try to get at it."
 
 2. **Current projects** — two side-by-side cards
 

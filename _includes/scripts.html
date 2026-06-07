@@ -1,4 +1,21 @@
 <script src="{{ base_path }}/assets/js/main.min.js"></script>
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    document.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(function(heading) {
+      var firstChild = heading.firstChild;
+      if (!firstChild || firstChild.nodeType !== 3) return;
+      var text = firstChild.textContent;
+      var spaceIndex = text.indexOf(' ');
+      if (spaceIndex === -1) return;
+      var span = document.createElement('span');
+      span.className = 'heading-first-word';
+      span.textContent = text.substring(0, spaceIndex);
+      firstChild.textContent = text.substring(spaceIndex);
+      heading.insertBefore(span, firstChild);
+    });
+  });
+</script>
+
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}

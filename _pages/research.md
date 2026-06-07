@@ -16,24 +16,23 @@ author_profile: true
   <div style="display:flex;gap:1.5rem;margin-top:1rem;flex-wrap:wrap;">
     <div style="flex:1;min-width:260px;border:1px solid #ddd;border-radius:6px;padding:1.2rem;">
       <div style="font-size:0.8rem;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.4rem;">University of California, Davis</div>
-      <div style="font-size:0.9rem;color:#666;margin-bottom:0.8rem;">Advisor: Adam J. Moulé</div>
+      <div style="font-size:0.9rem;color:#666;margin-bottom:0.8rem;">with Adam J. Moulé</div>
       <p style="margin:0;">
-        Phonon spectra in organic semiconductors — specifically how molecular vibrations and
+        I work on phonon spectra in organic semiconductors, specifically how molecular vibrations and
         structural disorder shape charge transport. Phonon spectroscopy in disordered organic systems
-        doesn't get a lot of attention, partly because it's genuinely hard to do well. But the answers
-        it produces are fundamental: understanding <em>why</em> these materials behave the way they do,
-        not just recording that they do.
+        doesn't get much attention, partly because it's genuinely hard to do well. I want to understand
+        <em>why</em> these materials behave the way they do, not just observe that they do.
       </p>
     </div>
     <div style="flex:1;min-width:260px;border:1px solid #ddd;border-radius:6px;padding:1.2rem;">
       <div style="font-size:0.8rem;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.4rem;">Max Planck Institute for Polymer Research</div>
-      <div style="font-size:0.9rem;color:#666;margin-bottom:0.8rem;">Advisors: Denis Andrienko, Paul W.M. Blom</div>
+      <div style="font-size:0.9rem;color:#666;margin-bottom:0.8rem;">with Denis Andrienko and Paul W.M. Blom</div>
       <p style="margin:0;">
-        Thermally activated delayed fluorescence (TADF) emitters for OLEDs. The structural correlation
-        in TADF materials — how molecular arrangement shapes photophysical behavior — is still largely
-        uncharted. I'm developing polarizable force fields to work out that picture and contributing
-        to the <a href="https://www.votca.org/" target="_blank">VOTCA</a> open-source software
-        platform. Get the structural correlation right, and the payoff is better OLED materials.
+        Thermally activated delayed fluorescence (TADF) emitters for OLEDs. The connection between
+        molecular arrangement and photophysical behavior in these materials is still largely uncharted.
+        I'm developing polarizable force fields to work out that picture, and contributing to the
+        <a href="https://www.votca.org/" target="_blank">VOTCA</a> open-source software platform.
+        Get the structural correlation right, and the payoff is better OLED materials.
       </p>
     </div>
   </div>

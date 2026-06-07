@@ -3,15 +3,15 @@
    ========================================================================== */
 
 @font-face {
-  font-family: "Editor27sNote-Regular";
-  src: url("../assets/fonts/Editor_27sNote-Regular.otf") format("opentype");
+  font-family: "Editor27sNote-Medium";
+  src: url("../assets/fonts/Editor_27sNote-Medium.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
-  font-family: "Editor27sNote-ThinItalic";
-  src: url("../assets/fonts/Editor_27sNote-ThinItalic.otf") format("opentype");
+  font-family: "Editor27sNote-Regular";
+  src: url("../assets/fonts/Editor_27sNote-Regular.otf") format("opentype");
   font-weight: normal;
   font-style: normal;
 }
@@ -38,13 +38,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
   margin: 2em 0 0.5em;
   line-height: 1.2;
-  font-family: "Editor27sNote-ThinItalic";
+  font-family: "Editor27sNote-Regular";
+  font-style: italic;
   font-weight: normal;
   text-transform: lowercase;
 }
 
 .heading-first-word {
-  font-family: "Editor27sNote-Regular";
+  font-family: "Editor27sNote-Medium";
+  font-style: normal;
 }
 
 h1 {

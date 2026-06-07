@@ -5,7 +5,7 @@
     document.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(function(heading) {
       var firstChild = heading.firstChild;
       if (!firstChild || firstChild.nodeType !== 3) return;
-      var text = firstChild.textContent;
+      var text = firstChild.textContent.trim();
       var spaceIndex = text.indexOf(' ');
       if (spaceIndex === -1) return;
       var span = document.createElement('span');

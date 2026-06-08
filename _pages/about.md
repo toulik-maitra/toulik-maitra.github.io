@@ -80,14 +80,6 @@ redirect_from:
 
   <!-- ADD IMAGE: An example figure or data visualization from your research would illustrate this point directly -->
 
-  <h2 style="margin-top:2rem;font-size:1.5rem;">Skills and tools</h2>
-  <ul style="margin-left:1.5rem;">
-    <li>Spectroscopy: inelastic neutron scattering (INS), optical spectroscopy</li>
-    <li>Simulation: molecular dynamics (GROMACS, LAMMPS), DFT, force field development</li>
-    <li>Software: VOTCA, Python, Bash, LaTeX</li>
-    <li>Methods: polarizable force fields, phonon analysis, quantum chemical calculations</li>
-  </ul>
-
   <h2 style="margin-top:2rem;font-size:1.5rem;">Outside the lab</h2>
 
   <p>

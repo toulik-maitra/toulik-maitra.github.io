@@ -3,6 +3,7 @@
 <script>
   document.addEventListener('DOMContentLoaded', function() {
     document.querySelectorAll('h1, h2, h3, h4, h5, h6').forEach(function(heading) {
+      if (heading.classList.contains('no-heading-split')) return;
       var firstChild = heading.firstChild;
       if (!firstChild || firstChild.nodeType !== 3) return;
       var text = firstChild.textContent.trim();

@@ -45,6 +45,14 @@ author_profile: true
     <li>Where does computational cost become the real bottleneck, and how do we push that boundary?</li>
   </ul>
 
+  <h2 style="margin-top:2rem;font-size:1.5rem;">Skills and tools</h2>
+  <ul style="margin-left:1.5rem;">
+    <li>Spectroscopy: inelastic neutron scattering (INS), optical spectroscopy</li>
+    <li>Simulation: molecular dynamics (GROMACS, LAMMPS), DFT, force field development</li>
+    <li>Software: VOTCA, Python, Bash, LaTeX</li>
+    <li>Methods: polarizable force fields, phonon analysis, quantum chemical calculations</li>
+  </ul>
+
   <h2 style="margin-top:2rem;font-size:1.5rem;">Awards and honors</h2>
 
   <table style="width:100%;border-collapse:collapse;margin-top:0.5rem;">
@@ -100,21 +108,21 @@ author_profile: true
     </tbody>
   </table>
 
-  <h2 style="margin-top:2rem;font-size:1.5rem;">Conferences</h2>
+  <h2 class="no-heading-split" style="margin-top:2rem;font-size:1.5rem;font-family:'Inter',sans-serif;font-style:normal;text-transform:none;">Conferences</h2>
 
-  <h3 style="margin-top:1.5rem;font-size:1.1rem;">APS March Meeting 2026, Denver, CO</h3>
+  <h3 class="no-heading-split" style="margin-top:1.5rem;font-size:1.1rem;font-family:'Inter',sans-serif;font-style:normal;text-transform:none;">APS March Meeting 2026, Denver, CO</h3>
   <ul style="margin-left:1.5rem;">
     <li><em>Talk:</em> Understanding the effect of fluorination on charge transport in organic semiconductors</li>
     <li><em>Poster:</em> Structural effects of TADF molecules on device performance</li>
   </ul>
 
-  <h3 style="margin-top:1.5rem;font-size:1.1rem;">ACS Spring 2026, Atlanta, GA</h3>
+  <h3 class="no-heading-split" style="margin-top:1.5rem;font-size:1.1rem;font-family:'Inter',sans-serif;font-style:normal;text-transform:none;">ACS Spring 2026, Atlanta, GA</h3>
   <ul style="margin-left:1.5rem;">
     <li><em>Talk:</em> Understanding structure and phonon signatures using a voxelization approach to MD simulations</li>
     <li><em>Talk:</em> Structural effects of TADF molecules on device performance</li>
   </ul>
 
-  <h3 style="margin-top:1.5rem;font-size:1.1rem;">Gordon Research Seminar (GRS) / Gordon Research Conference (GRC): Electronic Processes in Organic Materials 2026, Italy</h3>
+  <h3 class="no-heading-split" style="margin-top:1.5rem;font-size:1.1rem;font-family:'Inter',sans-serif;font-style:normal;text-transform:none;">Gordon Research Seminar (GRS) / Gordon Research Conference (GRC): Electronic Processes in Organic Materials 2026, Italy</h3>
   <ul style="margin-left:1.5rem;">
     <li>Selected as speaker (GRS) and poster presenter (GRC), but was unable to attend due to funding constraints</li>
   </ul>

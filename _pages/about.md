@@ -17,10 +17,9 @@ redirect_from:
   </p>
 
   <p>
-    Growing up in Madanpur, a small village in West Bengal, I knew early that I wanted to understand
-    how matter behaves at the molecular scale. That drive took me from synthesizing nanostructures at
-    the University of Calcutta to building computational models during my PhD, and eventually to
-    research spanning two continents.
+    I grew up in Madanpur, a small village in West Bengal. Working showed me what I wanted to do.
+    That path took me from experimental chemistry at the University of Calcutta into computational
+    methods during my PhD, and eventually into research spanning two continents.
   </p>
 
   <!--
@@ -44,9 +43,9 @@ redirect_from:
 
   <p>
     Before my PhD, I spent time in industry as a business analyst intern at
-    <strong>TATA Autocomps Systems Ltd.</strong>, working on production feasibility studies. That's where
-    I started asking what research was for, whether the science connected to something people needed to
-    build. I still think about the distance between what the science says and what anyone can use.
+    <strong>TATA Autocomps Systems Ltd.</strong>, working on production feasibility studies. Working in
+    industry raised a question I hadn't asked before, whether the science connected to something people
+    needed to build. I still think about the distance between what the science says and what anyone can use.
   </p>
 
   <p>

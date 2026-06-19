@@ -11,89 +11,105 @@ redirect_from:
   <p>
     I'm Toulik Maitra, a doctoral candidate in Chemical Engineering at
     <a href="https://www.ucdavis.edu/" target="_blank">UC Davis</a>, working with Professor Adam Moulé.
-    I'm also a visiting fellow at the
+    As a visiting fellow at the
     <a href="https://www.mpip-mainz.mpg.de/" target="_blank">Max Planck Institute for Polymer Research</a>
-    in Mainz, Germany, where I work with the Molecular Electronics Group.
+    in Mainz, Germany, I work with the Molecular Electronics Group.
   </p>
 
   <p>
-    I grew up in Madanpur, a small village in West Bengal. I didn't have a research path mapped out,
-    just a persistent need to understand why things work the way they do. That curiosity took me
-    through experimental chemistry at the University of Calcutta, through a deliberate pivot into
-    computational methods at the start of my PhD, and eventually into research collaborations across
-    two continents.
+    Growing up in Madanpur, a small village in West Bengal, I knew early that I wanted to understand
+    how matter behaves at the molecular scale. That drive took me from synthesizing nanostructures at
+    the University of Calcutta to building computational models during my PhD, and eventually to
+    research spanning two continents.
   </p>
+
+  <!--
+    FIGURE: Minimalist illustrated map or timeline — Calcutta → Davis → Mainz.
+    A hand-drawn or SVG style works well. Keep it simple: three dots, two arcs, city labels.
+    Place it here, between the intro and the backstory, as a visual anchor for the journey.
+  -->
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">How I got here</h2>
 
   <p>
-    My undergraduate work was entirely experimental: synthesizing hierarchical nanostructures for
-    photovoltaics and photoelectrochemical water splitting at the University of Calcutta. I had no
-    background in computational chemistry then. When I started my PhD, I chose to go somewhere I had
-    no existing expertise. That turned out to be the right call.
+    My undergraduate work was entirely experimental, synthesizing hierarchical nanostructures for
+    photovoltaics and photoelectrochemical water splitting at the University of Calcutta.
   </p>
 
-  <p>
-    Learning computational methods from scratch while doing active research forced me to build
-    intuition I wouldn't have gotten otherwise, about what simulations can and can't tell you and
-    about where experimental and computational approaches genuinely need each other. It also wired in
-    a habit: when I run into a method from another field that might solve something I'm stuck on, I
-    want to understand it properly before applying it. Borrowing without understanding usually breaks
-    at the edge cases.
-  </p>
+  <!--
+    FIGURE: SEM or TEM image of a nanostructure from undergrad, or a schematic of the
+    photovoltaic / PEC device architecture. Caption following your figure caption style:
+    "Hierarchical ZnO nanostructures synthesized for photoelectrochemical water splitting. (a)..."
+  -->
 
   <p>
     Before my PhD, I spent time in industry as a business analyst intern at
-    <strong>TATA Autocomps Systems Ltd.</strong>, working on production feasibility studies. That was
-    the first time I had to think about what research was actually <em>for</em>. Not just whether the
-    science was correct, but whether it connected to something people needed to build. I still think
-    about that gap.
+    <strong>TATA Autocomps Systems Ltd.</strong>, working on production feasibility studies. That's where
+    I started asking what research was for, whether the science connected to something people needed to
+    build. I still think about the distance between what the science says and what anyone can use.
   </p>
 
-  <!-- ADD PPT/PDF: Export a talk or research overview slide deck to PDF, put it in /files/, and link it here -->
-  <!-- ADD IMAGE: A photo from a conference, lab, or neutron scattering facility would work well here -->
+  <p>
+    When I started my PhD, I chose to pivot into computational chemistry. The learning curve was steep;
+    the decision wasn't. Working across experimental and computational methods sharpened my intuition
+    for what each can and can't tell you, and where they genuinely need each other. It also wired in a
+    habit. When I encounter a method from another field that might solve something I'm stuck on, I want
+    to understand it before applying it. Borrowed methods break at edge cases.
+  </p>
+
+  <!--
+    FIGURE: A photo at a beamline or neutron scattering facility (NIST, ALS, ESRF, SNS) — or
+    at the MPIP lab. Something that visually bridges experimental and computational work.
+    A candid shot works better than a posed one.
+  -->
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">How I work</h2>
 
   <p>
-    Results matter to me. My publications are on
-    <a href="https://scholar.google.com/citations?user=uno6C3UAAAAJ&sortby=pubdate" target="_blank">Google Scholar</a>.
-    Five from undergrad, more coming from my PhD work. What I actually track is whether the
-    research moves something forward. Publications are how the field keeps score; they're not the
-    point.
+    Whether research moves something forward is what I track. My publications are on
+    <a href="https://scholar.google.com/citations?user=uno6C3UAAAAJ&sortby=pubdate" target="_blank">Google Scholar</a>,
+    five from undergrad and more from my PhD. Publications are how the field keeps score.
+    Moving something forward is the point.
   </p>
 
   <p>
-    I've moved between multiple groups and institutions, and the consistent pattern is that things
-    get done when people are actually working together. I don't have much interest in territory or
-    credit. If someone on another team has already worked through something I'm stuck on, I want to
-    understand their approach. If I've solved something that someone else is running into, I'd rather
-    share it than sit on it. A personal win that doesn't advance the project isn't really a win.
+    I've moved between multiple groups and institutions. The consistent pattern is that things get done
+    when people work together. Territory and credit don't interest me. When someone on another team has
+    worked through something I'm stuck on, I want to understand their approach. If I've solved something
+    someone else is running into, I'd rather share it than sit on it.
   </p>
 
   <p>
-    I also think presentation matters more than researchers usually admit. A figure that makes the
-    reader work to extract the point isn't doing its job. I put real time into every plot and
-    slide, not because aesthetics are decorative, but because making data legible is part of doing
-    science well. The reader's attention is finite; it shouldn't go toward decoding a bad figure.
+    Presentation matters more than researchers admit. A figure that makes the reader work to extract
+    the point isn't doing its job. I put real time into every plot and slide because making data
+    legible is part of doing science well.
   </p>
 
-  <!-- ADD IMAGE: An example figure or data visualization from your research would illustrate this point directly -->
+  <!--
+    FIGURE: One of your best research figures — conductivity vs. paracrystallinity, a GIWAXS
+    pattern comparison, or a simulation visualization from your PhD work. Directly demonstrates
+    the point above. Caption: describe what's plotted and what the trend means (voice.md style).
+  -->
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">Outside the lab</h2>
 
   <p>
-    I play soccer and follow Manchester United. I genuinely admire the teamwork and discipline the
-    game demands, even when United is making that harder than it needs to be. I spend time outside
-    whenever I can: hiking, camping, finding places I haven't been before. Right now I'm reading
-    Ed Yong's <em>An Immense World</em>, which is about how different animals perceive reality.
-    It keeps reminding me that the frame you bring to a problem shapes what you're able to see in it.
+    I play soccer and follow Manchester United with a loyalty that hasn't yet been rewarded. Most
+    time outside the lab goes toward hiking or camping somewhere I haven't been before. Right now
+    I'm reading Ed Yong's <em>An Immense World</em>, which is about how different animals perceive
+    reality. It keeps reminding me that the frame you bring to a problem shapes what you're able
+    to see in it.
   </p>
 
+  <!--
+    FIGURE: A candid outdoor photo — hiking, a trail, a campsite, or a landscape.
+    Nothing posed. Just you somewhere outside. Breaks the academic register of the page.
+  -->
+
   <p>
-    The path from a village in West Bengal to research collaborations in Germany has been longer and
-    stranger than I would have predicted. I didn't plan most of it. I just kept following whatever
-    question seemed most worth answering.
+    The path from a village in West Bengal to research collaborations in Germany wasn't linear.
+    Every step made sense when I took it. I kept moving toward whatever question seemed most worth
+    answering.
   </p>
 
   <div style="margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap;">
@@ -101,7 +117,6 @@ redirect_from:
        style="display:inline-block;padding:0.5rem 1.2rem;background:#333;color:#fff;border-radius:4px;text-decoration:none;font-size:0.95rem;">
       Download CV
     </a>
-    <!-- REPLACE the email below with your preferred contact address, or swap to a /contact/ page link -->
     <a href="mailto:toulikchemaitra@gmail.com"
        style="display:inline-block;padding:0.5rem 1.2rem;background:#fff;color:#333;border:1px solid #ccc;border-radius:4px;text-decoration:none;font-size:0.95rem;">
       Get in touch

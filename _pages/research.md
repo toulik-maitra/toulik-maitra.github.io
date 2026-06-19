@@ -6,10 +6,16 @@ author_profile: true
 <section id="research" style="max-width:800px;margin:auto;padding:2rem;font-family:'Inter',sans-serif;line-height:1.7;color:#222;">
 
   <p>
-    I work on organic electronic materials. Specifically, how molecular-level structure determines
-    the way charge moves through them, and why it's so hard to predict. Simulation and neutron
-    spectroscopy are how I try to get at it.
+    I work on organic electronic materials. The core question is how molecular-level structure
+    determines the way charge moves through them, and what makes that relationship so difficult to
+    predict. Simulation and neutron spectroscopy are how I get at it.
   </p>
+
+  <!--
+    FIGURE: A simulation snapshot or GIWAXS pattern from your current work — something that
+    immediately shows what "molecular-level structure" looks like in practice.
+    Place here as a visual introduction before the project cards.
+  -->
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">Current projects</h2>
 
@@ -19,21 +25,28 @@ author_profile: true
       <div style="font-size:0.9rem;color:#666;margin-bottom:0.8rem;">with Adam J. Moulé</div>
       <p style="margin:0;">
         I work on phonon spectra in organic semiconductors, specifically how molecular vibrations and
-        structural disorder shape charge transport. Phonon spectroscopy in disordered organic systems
-        doesn't get much attention, partly because it's genuinely hard to do well. I want to understand
-        <em>why</em> these materials behave the way they do, not just observe that they do.
+        structural disorder shape charge transport. Most people skip phonon spectroscopy in disordered
+        organic systems because it's hard to do well. My goal is to understand why.
       </p>
+      <!--
+        FIGURE: INS spectrum or phonon density of states from your UC Davis work.
+        Goes inside or below this card.
+      -->
     </div>
     <div style="flex:1;min-width:260px;border:1px solid #ddd;border-radius:6px;padding:1.2rem;">
       <div style="font-size:0.8rem;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.4rem;">Max Planck Institute for Polymer Research</div>
       <div style="font-size:0.9rem;color:#666;margin-bottom:0.8rem;">with Denis Andrienko and Paul W.M. Blom</div>
       <p style="margin:0;">
-        Thermally activated delayed fluorescence (TADF) emitters for OLEDs. The connection between
-        molecular arrangement and photophysical behavior in these materials is still largely uncharted.
-        I'm developing polarizable force fields to work out that picture, and contributing to the
+        Thermally activated delayed fluorescence (TADF) emitters for OLEDs. How molecular arrangement
+        drives photophysical behavior in these materials is not yet understood. I'm developing
+        polarizable force fields to work out that picture, and contributing to the
         <a href="https://www.votca.org/" target="_blank">VOTCA</a> open-source software platform.
         Get the structural correlation right, and the payoff is better OLED materials.
       </p>
+      <!--
+        FIGURE: TADF molecular structure with an excited-state energy diagram showing the S1/T1 gap,
+        or a schematic of the OLED device stack. Goes inside or below this card.
+      -->
     </div>
   </div>
 
@@ -87,7 +100,7 @@ author_profile: true
         <td style="padding:0.6rem 0.4rem;color:#888;white-space:nowrap;">Feb 2020</td>
       </tr>
       <tr>
-        <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">Techno-innovation competition; presented new innovative ideas.</td>
+        <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">Techno-innovation competition at IIT Kharagpur's annual technical festival.</td>
       </tr>
       <tr style="border-bottom:1px solid #eee;">
         <td style="padding:0.6rem 0.4rem;font-weight:600;">Top 25 Teams in India, Empresario 2020</td>
@@ -124,7 +137,7 @@ author_profile: true
 
   <h3 class="no-heading-split" style="margin-top:1.5rem;font-size:1.1rem;font-family:'Inter',sans-serif;font-style:normal;font-weight:bold;text-transform:none;">Gordon Research Seminar (GRS) / Gordon Research Conference (GRC): Electronic Processes in Organic Materials 2026, Italy</h3>
   <ul style="margin-left:1.5rem;">
-    <li>Selected as speaker (GRS) and poster presenter (GRC), but was unable to attend due to funding constraints</li>
+    <li>Selected as speaker (GRS) and poster presenter (GRC)</li>
   </ul>
 
   <div style="margin-top:2rem;">

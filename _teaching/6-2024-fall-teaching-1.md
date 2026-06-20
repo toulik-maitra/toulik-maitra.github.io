@@ -16,4 +16,4 @@ I supervised three lab sessions per week. We worked through different brewing me
 
 It worked better than most courses I have taught. First-year students who do not yet know what to expect from an engineering degree are the hardest audience to reach. A tangible problem changes that completely.
 
-[Course Evaluation Summary](/files/ech001_fall_2024.pdf)
+[Course Evaluation — Fall 2024](/files/ech001_fall_2024.pdf) · [Course Evaluation — Spring 2026](/files/ech001_spring_2026.pdf)

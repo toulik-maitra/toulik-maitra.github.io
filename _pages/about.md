@@ -19,14 +19,17 @@ redirect_from:
   <p>
     I grew up in Madanpur, a small village in West Bengal. Working showed me what I wanted to do.
     That path took me from experimental chemistry at the University of Calcutta into computational
-    methods during my PhD, and eventually into research spanning two continents.
+    methods during my PhD, and eventually into research spanning three continents.
   </p>
 
-  <!--
-    FIGURE: Minimalist illustrated map or timeline — Calcutta → Davis → Mainz.
-    A hand-drawn or SVG style works well. Keep it simple: three dots, two arcs, city labels.
-    Place it here, between the intro and the backstory, as a visual anchor for the journey.
-  -->
+  <figure style="margin:2rem 0;text-align:center;">
+    <img src="/images/location.png"
+         alt="Journey map: Madanpur, India → Davis, United States → Mainz, Germany"
+         style="max-width:100%;height:auto;border-radius:4px;">
+    <figcaption style="margin-top:0.5rem;font-size:0.9rem;color:#666;">
+      Madanpur → Davis → Mainz
+    </figcaption>
+  </figure>
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">How I got here</h2>
 

@@ -65,16 +65,24 @@ author_profile: true
         <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">~$71k covering stipend, tuition, and research allowance for one year.</td>
       </tr>
       <tr style="border-bottom:1px solid #eee;">
+        <td style="padding:0.6rem 0.4rem;font-weight:600;">DMP Ovshinsky Travel Grant</td>
+        <td style="padding:0.6rem 0.4rem;color:#555;">APS Division of Materials Physics</td>
+        <td style="padding:0.6rem 0.4rem;color:#888;white-space:nowrap;">2026</td>
+      </tr>
+      <tr>
+        <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">$750 travel reimbursement to attend the 2026 APS Global Physics Summit.</td>
+      </tr>
+      <tr style="border-bottom:1px solid #eee;">
         <td style="padding:0.6rem 0.4rem;font-weight:600;">Max Planck Institute Fellowship</td>
-        <td style="padding:0.6rem 0.4rem;color:#555;">UCD Graduate Studies</td>
+        <td style="padding:0.6rem 0.4rem;color:#555;">Graduate Studies, UC Davis</td>
         <td style="padding:0.6rem 0.4rem;color:#888;white-space:nowrap;">Jul 2025</td>
       </tr>
       <tr>
         <td colspan="3" style="padding:0.2rem 0.4rem 0.8rem;font-size:0.9rem;color:#666;">~$5k covering tuition for one quarter.</td>
       </tr>
       <tr style="border-bottom:1px solid #eee;">
-        <td style="padding:0.6rem 0.4rem;font-weight:600;">UCD Graduate Research Award</td>
-        <td style="padding:0.6rem 0.4rem;color:#555;">UC Davis</td>
+        <td style="padding:0.6rem 0.4rem;font-weight:600;">UC Davis Graduate Research Award</td>
+        <td style="padding:0.6rem 0.4rem;color:#555;">Graduate Studies, UC Davis</td>
         <td style="padding:0.6rem 0.4rem;color:#888;white-space:nowrap;">Mar 2025</td>
       </tr>
       <tr>

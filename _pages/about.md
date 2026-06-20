@@ -86,6 +86,10 @@ redirect_from:
     answering.
   </p>
 
+  <p style="text-align:center;margin:2rem 0;">
+    <img src="/images/outside_lab.jpg" alt="" style="max-width:100%;height:auto;">
+  </p>
+
   <div style="margin-top:2rem;display:flex;gap:1rem;flex-wrap:wrap;">
     <a href="/files/resume.pdf" target="_blank"
        style="display:inline-block;padding:0.5rem 1.2rem;background:#333;color:#fff;border-radius:4px;text-decoration:none;font-size:0.95rem;">

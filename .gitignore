@@ -33,3 +33,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
+
+# Ignore AI tooling artifacts
+.superpowers/
+docs/superpowers/

@@ -22,14 +22,9 @@ redirect_from:
     methods during my PhD, and eventually into research spanning three continents.
   </p>
 
-  <figure style="margin:2rem 0;text-align:center;">
-    <img src="/images/location.png"
-         alt="Journey map: Madanpur, India → Davis, United States → Mainz, Germany"
-         style="max-width:100%;height:auto;border-radius:4px;">
-    <figcaption style="margin-top:0.5rem;font-size:0.9rem;color:#666;">
-      Madanpur → Davis → Mainz
-    </figcaption>
-  </figure>
+  <p style="text-align:center;margin:2rem 0;">
+    <img src="/images/location.png" alt="" style="max-width:100%;height:auto;">
+  </p>
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">How I got here</h2>
 
@@ -37,12 +32,6 @@ redirect_from:
     My undergraduate work was entirely experimental, synthesizing hierarchical nanostructures for
     photovoltaics and photoelectrochemical water splitting at the University of Calcutta.
   </p>
-
-  <!--
-    FIGURE: SEM or TEM image of a nanostructure from undergrad, or a schematic of the
-    photovoltaic / PEC device architecture. Caption following your figure caption style:
-    "Hierarchical ZnO nanostructures synthesized for photoelectrochemical water splitting. (a)..."
-  -->
 
   <p>
     Before my PhD, I spent time in industry as a business analyst intern at
@@ -58,12 +47,6 @@ redirect_from:
     habit. When I encounter a method from another field that might solve something I'm stuck on, I want
     to understand it before applying it. Borrowed methods break at edge cases.
   </p>
-
-  <!--
-    FIGURE: A photo at a beamline or neutron scattering facility (NIST, ALS, ESRF, SNS) — or
-    at the MPIP lab. Something that visually bridges experimental and computational work.
-    A candid shot works better than a posed one.
-  -->
 
   <h2 style="margin-top:2rem;font-size:1.5rem;">How I work</h2>
 
@@ -87,12 +70,6 @@ redirect_from:
     legible is part of doing science well.
   </p>
 
-  <!--
-    FIGURE: One of your best research figures — conductivity vs. paracrystallinity, a GIWAXS
-    pattern comparison, or a simulation visualization from your PhD work. Directly demonstrates
-    the point above. Caption: describe what's plotted and what the trend means (voice.md style).
-  -->
-
   <h2 style="margin-top:2rem;font-size:1.5rem;">Outside the lab</h2>
 
   <p>
@@ -102,11 +79,6 @@ redirect_from:
     reality. It keeps reminding me that the frame you bring to a problem shapes what you're able
     to see in it.
   </p>
-
-  <!--
-    FIGURE: A candid outdoor photo — hiking, a trail, a campsite, or a landscape.
-    Nothing posed. Just you somewhere outside. Breaks the academic register of the page.
-  -->
 
   <p>
     The path from a village in West Bengal to research collaborations in Germany wasn't linear.

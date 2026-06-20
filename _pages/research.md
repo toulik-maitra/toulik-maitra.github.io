@@ -11,12 +11,6 @@ author_profile: true
     predict. Simulation and neutron spectroscopy are how I get at it.
   </p>
 
-  <!--
-    FIGURE: A simulation snapshot or GIWAXS pattern from your current work — something that
-    immediately shows what "molecular-level structure" looks like in practice.
-    Place here as a visual introduction before the project cards.
-  -->
-
   <h2 style="margin-top:2rem;font-size:1.5rem;">Current projects</h2>
 
   <div style="display:flex;gap:1.5rem;margin-top:1rem;flex-wrap:wrap;">
@@ -28,10 +22,6 @@ author_profile: true
         structural disorder shape charge transport. Most people skip phonon spectroscopy in disordered
         organic systems because it's hard to do well. My goal is to understand why.
       </p>
-      <!--
-        FIGURE: INS spectrum or phonon density of states from your UC Davis work.
-        Goes inside or below this card.
-      -->
     </div>
     <div style="flex:1;min-width:260px;border:1px solid #ddd;border-radius:6px;padding:1.2rem;">
       <div style="font-size:0.8rem;font-weight:700;color:#555;text-transform:uppercase;letter-spacing:0.05em;margin-bottom:0.4rem;">Max Planck Institute for Polymer Research</div>
@@ -43,10 +33,6 @@ author_profile: true
         <a href="https://www.votca.org/" target="_blank">VOTCA</a> open-source software platform.
         Get the structural correlation right, and the payoff is better OLED materials.
       </p>
-      <!--
-        FIGURE: TADF molecular structure with an excited-state energy diagram showing the S1/T1 gap,
-        or a schematic of the OLED device stack. Goes inside or below this card.
-      -->
     </div>
   </div>
 
